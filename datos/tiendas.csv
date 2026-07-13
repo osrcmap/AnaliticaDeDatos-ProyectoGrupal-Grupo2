@@ -1,0 +1,13 @@
+id_tienda,nombre,ciudad,region,tipo,area_m2,fecha_apertura
+T01,AndinaRetail Miraflores,Lima,Lima,Física,1940.0,2015-09-20
+T02,AndinaRetail San Miguel,Lima,Lima,Física,763.0,2019-07-21
+T03,AndinaRetail Los Olivos,Lima,Lima,Física,496.0,2019-08-24
+T04,AndinaRetail Cayma,Arequipa,Arequipa,Física,1569.0,2023-02-15
+T05,AndinaRetail Cercado AQP,Arequipa,Arequipa,Física,1089.0,2015-07-21
+T06,AndinaRetail Trujillo Centro,Trujillo,La Libertad,Física,1267.0,2016-10-04
+T07,AndinaRetail Víctor Larco,Trujillo,La Libertad,Física,589.0,2020-07-14
+T08,AndinaRetail Wanchaq,Cusco,Cusco,Física,1098.0,2020-02-03
+T09,AndinaRetail Cusco Centro,Cusco,Cusco,Física,1576.0,2022-05-11
+T10,AndinaRetail Piura Open,Piura,Piura,Física,1071.0,2020-01-02
+T11,AndinaRetail Web,Lima,Lima,Virtual,,2020-05-15
+T12,AndinaRetail App,Lima,Lima,Virtual,,2021-08-01

@@ -1,0 +1,801 @@
+id_producto,nombre,categoria,subcategoria,marca,precio_lista,costo_unitario,fecha_alta
+P0001,Licuadoras Kusi Max 98,Electrohogar,Licuadoras,Kusi,400.82,299.87,2021-10-16
+P0002,Organización Sami Clásico 83,Hogar,Organización,Sami,439.96,351.32,2021-12-17
+P0003,Fideos y pastas Puma Norte Max 18,Abarrotes,Fideos y pastas,Puma Norte,6.58,5.05,2021-11-19
+P0004,Afeitado Runa Eco 98,Cuidado Personal,Afeitado,Runa,11.22,6.74,2021-02-23
+P0005,Vinos y licores Runa Lite 62,Bebidas,Vinos y licores,Runa,3.47,2.62,2019-08-07
+P0006,Muebles pequeños Nuna Max 79,Hogar,Muebles pequeños,Nuna,33.85,26.68,2021-04-09
+P0007,Muebles pequeños Misti Clásico 65,Hogar,Muebles pequeños,Misti,30.84,23.0,2019-01-08
+P0008,Afeitado Wayra Clásico 19,Cuidado Personal,Afeitado,,44.62,27.23,2022-03-06
+P0009,Televisores Yachay Clásico 55,Electrohogar,Televisores,Yachay,684.4,458.41,2020-07-15
+P0010,Papel higiénico Qori Lite 65,Limpieza,Papel higiénico,Qori,47.41,31.5,2022-03-03
+P0011,Refrigeración Sami Familiar 98,Electrohogar,Refrigeración,Sami,2366.52,1633.78,2021-08-03
+P0012,Lavavajillas Pacífico Familiar 40,Limpieza,Lavavajillas,Pacífico,7.07,4.32,2021-07-25
+P0013,Jugos Puma Norte Familiar 16,Bebidas,Jugos,Puma Norte,2.53,1.95,2019-06-20
+P0014,Cervezas Tika Max 1,Bebidas,Cervezas,Tika,24.44,17.64,2019-08-26
+P0015,Snacks Wayra Lite 3,Abarrotes,Snacks,Wayra,15.36,10.63,2022-11-28
+P0016,Desinfectantes Wayra Max 7,Limpieza,Desinfectantes,Wayra,6.84,5.05,2022-09-06
+P0017,Ambientadores Chaska Familiar 43,Limpieza,Ambientadores,Chaska,47.96,33.4,2022-02-15
+P0018,Cuidado de piel Inti Lite 39,Cuidado Personal,Cuidado de piel,Inti,55.61,33.81,2022-12-30
+P0019,Snacks Tika Max 34,Abarrotes,Snacks,Tika,15.9,12.63,2020-10-27
+P0020,Desinfectantes Qori Lite 43,Limpieza,Desinfectantes,Qori,9.28,6.26,2018-11-13
+P0021,Jugos Kusi Eco 16,Bebidas,Jugos,Kusi,18.38,14.27,2020-01-18
+P0022,Conservas Wayra Eco 72,Abarrotes,Conservas,Wayra,7.21,4.88,2021-01-07
+P0023,Afeitado Runa Eco 31,Cuidado Personal,Afeitado,Runa,31.34,22.74,2019-11-01
+P0024,Detergentes Pacífico Max 12,Limpieza,Detergentes,Pacífico,19.98,14.97,2020-07-28
+P0025,Vinos y licores Puma Norte Eco 88,Bebidas,Vinos y licores,Puma Norte,3.27,2.47,2022-06-12
+P0026,Conservas Puma Norte Max 15,Abarrotes,Conservas,Puma Norte,3.27,2.33,2021-09-03
+P0027,Decoración Yachay Eco 44,Hogar,Decoración,Yachay,271.14,196.11,2021-02-08
+P0028,Lavado Puma Norte Eco 60,Electrohogar,Lavado,Puma Norte,123.6,88.47,2018-08-21
+P0029,Afeitado Runa Clásico 60,Cuidado Personal,Afeitado,Runa,22.15,13.35,2021-09-14
+P0030,Vinos y licores Misti Premium 76,Bebidas,Vinos y licores,Misti,4.67,3.23,2020-02-25
+P0031,Menaje Tika Max 72,Hogar,Menaje,Tika,74.39,54.76,2020-05-31
+P0032,Shampoo Tika Max 85,Cuidado Personal,Shampoo,Tika,47.66,30.62,2020-04-23
+P0033,Papel higiénico Andes Premium 80,Limpieza,Papel higiénico,Andes,7.57,5.19,2021-02-22
+P0034,Muebles pequeños Puma Norte Premium 36,Hogar,Muebles pequeños,Puma Norte,211.58,150.13,2020-10-02
+P0035,Gaseosas Sami Lite 6,Bebidas,Gaseosas,Sami,11.38,8.2,2019-01-18
+P0036,Cuidado de piel Sami Eco 38,Cuidado Personal,Cuidado de piel,Sami,59.72,44.76,2020-10-15
+P0037,Energizantes Puma Norte Max 60,Bebidas,Energizantes,Puma Norte,43.22,34.5,2021-11-17
+P0038,Jugos Runa Eco 68,Bebidas,Jugos,Runa,24.79,18.67,2021-03-18
+P0039,Cuidado dental Runa Lite 98,Cuidado Personal,Cuidado dental,Runa,31.13,24.62,2020-09-20
+P0040,Harinas y azúcar Tika Eco 40,Abarrotes,Harinas y azúcar,Tika,7.83,4.83,2022-08-17
+P0041,Papel higiénico Pacífico Premium 27,Limpieza,Papel higiénico,Pacífico,55.43,34.17,2019-09-07
+P0042,Cuidado dental Yachay Familiar 90,Cuidado Personal,Cuidado dental,Yachay,13.94,11.13,2020-05-27
+P0043,Arroz y menestras Qori Premium 63,Abarrotes,Arroz y menestras,Qori,3.75,2.43,2022-09-01
+P0044,Microondas Puma Norte Max 78,Electrohogar,Microondas,Puma Norte,342.96,236.02,2020-09-01
+P0045,Papel higiénico Nuna Max 29,Limpieza,Papel higiénico,Nuna,7.01,4.43,2020-11-03
+P0046,Cuidado de piel Kusi Premium 85,Cuidado Personal,Cuidado de piel,Kusi,27.66,20.95,2018-08-22
+P0047,Jugos Tika Eco 45,Bebidas,Jugos,Tika,8.24,5.75,2019-07-13
+P0048,Papel higiénico Runa Eco 90,Limpieza,Papel higiénico,Runa,49.91,35.89,2019-02-07
+P0049,Papel higiénico Runa Lite 64,Limpieza,Papel higiénico,Runa,26.74,16.44,2018-09-29
+P0050,Detergentes Yachay Familiar 34,Limpieza,Detergentes,Yachay,19.45,13.39,2021-09-04
+P0051,Cuidado dental Andes Clásico 29,Cuidado Personal,Cuidado dental,Andes,12.16,9.01,2022-06-29
+P0052,Cuidado de piel Tika Lite 24,Cuidado Personal,Cuidado de piel,Tika,69.41,44.52,2018-12-26
+P0053,Vinos y licores Chaska Eco 20,Bebidas,Vinos y licores,Chaska,31.97,22.34,2021-04-23
+P0054,Fideos y pastas Pacífico Lite 72,Abarrotes,Fideos y pastas,Pacífico,8.76,5.88,2020-08-17
+P0055,Refrigeración Wayra Lite 32,Electrohogar,Refrigeración,Wayra,824.6,653.61,2020-09-06
+P0056,Desinfectantes Puma Norte Eco 68,Limpieza,Desinfectantes,Puma Norte,4.18,2.53,2019-07-20
+P0057,Jugos Wayra Premium 75,Bebidas,Jugos,Wayra,4.56,3.06,2022-06-27
+P0058,Papel higiénico Inti Eco 16,Limpieza,Papel higiénico,Inti,57.1,37.3,2021-04-30
+P0059,Arroz y menestras Wayra Clásico 95,Abarrotes,Arroz y menestras,Wayra,10.32,6.48,2020-07-26
+P0060,Muebles pequeños Killa Max 30,Hogar,Muebles pequeños,Killa,106.04,72.5,2020-08-16
+P0061,Menaje Killa Premium 77,Hogar,Menaje,Killa,17.11,12.83,2022-09-06
+P0062,Fideos y pastas Wayra Max 96,Abarrotes,Fideos y pastas,Wayra,5.18,3.34,2022-12-10
+P0063,Gaseosas Nuna Max 89,Bebidas,Gaseosas,Nuna,36.92,25.51,2020-12-19
+P0064,Televisores Sami Lite 4,Electrohogar,Televisores,Sami,106.2,84.56,2021-01-11
+P0065,Jugos Inti Clásico 42,Bebidas,Jugos,Inti,32.65,22.96,2021-07-09
+P0066,Cuidado dental Sami Max 16,Cuidado Personal,Cuidado dental,Sami,69.45,46.88,2019-11-26
+P0067,Vinos y licores Nuna Eco 92,Bebidas,Vinos y licores,Nuna,7.1,5.38,2022-02-07
+P0068,Microondas Tika Premium 81,Electrohogar,Microondas,Tika,96.16,68.28,2020-10-08
+P0069,Organización Misti Eco 73,Hogar,Organización,Misti,48.73,38.69,2020-09-01
+P0070,Organización Inti Max 31,Hogar,Organización,Inti,39.85,29.16,2022-06-25
+P0071,Afeitado Chaska Clásico 95,Cuidado Personal,Afeitado,Chaska,68.14,49.63,2020-06-18
+P0072,Conservas Sami Premium 55,Abarrotes,Conservas,Sami,3.63,2.36,2019-11-04
+P0073,Textil hogar Nuna Max 93,Hogar,Textil hogar,Nuna,291.17,182.63,2019-09-24
+P0074,Aceites Runa Eco 93,Abarrotes,Aceites,Runa,46.74,34.02,2018-09-04
+P0075,Cervezas Nuna Premium 83,Bebidas,Cervezas,Nuna,6.42,5.04,2021-06-16
+P0076,Vinos y licores Nuna Premium 79,Bebidas,Vinos y licores,Nuna,34.41,21.62,2021-03-13
+P0077,Cuidado de piel Qori Clásico 59,Cuidado Personal,Cuidado de piel,Qori,29.19,22.29,2020-07-29
+P0078,Papel higiénico Puma Norte Clásico 23,Limpieza,Papel higiénico,Puma Norte,8.22,5.67,2020-11-11
+P0079,Arroz y menestras Yachay Familiar 67,Abarrotes,Arroz y menestras,Yachay,29.96,18.55,2020-09-18
+P0080,Snacks Kusi Clásico 69,Abarrotes,Snacks,Kusi,14.86,11.02,2022-08-24
+P0081,Shampoo Runa Eco 68,Cuidado Personal,Shampoo,Runa,7.81,6.19,2019-09-09
+P0082,Desinfectantes Sami Familiar 16,Limpieza,Desinfectantes,Sami,39.83,23.97,2020-09-11
+P0083,Cuidado de piel Kusi Clásico 16,Cuidado Personal,Cuidado de piel,Kusi,40.01,26.44,2020-10-23
+P0084,Cuidado de piel Andes Max 38,Cuidado Personal,Cuidado de piel,Andes,63.56,43.14,2022-03-22
+P0085,Organización Nuna Premium 64,Hogar,Organización,Nuna,101.13,73.14,2022-02-20
+P0086,Textil hogar Killa Max 2,Hogar,Textil hogar,Killa,189.65,149.78,2021-01-07
+P0087,Fideos y pastas Pacífico Max 12,Abarrotes,Fideos y pastas,Pacífico,8.65,6.65,2022-08-01
+P0088,Decoración Andes Max 23,Hogar,Decoración,Andes,106.13,68.88,2022-03-30
+P0089,Hervidores Sami Lite 22,Electrohogar,Hervidores,Sami,183.86,133.73,2019-12-11
+P0090,Shampoo Runa Eco 3,Cuidado Personal,Shampoo,Runa,87.38,64.68,2022-08-17
+P0091,Shampoo Misti Lite 74,Cuidado Personal,Shampoo,Misti,10.88,7.84,2018-12-19
+P0092,Lavavajillas Qori Lite 6,Limpieza,Lavavajillas,Qori,25.53,19.62,2021-08-10
+P0093,Organización Puma Norte Clásico 77,Hogar,Organización,Puma Norte,301.81,188.87,2022-01-14
+P0094,Conservas Yachay Lite 15,Abarrotes,Conservas,Yachay,19.12,12.56,2020-10-30
+P0095,Jabones Andes Lite 12,Cuidado Personal,Jabones,Andes,73.46,52.46,2020-07-20
+P0096,Microondas Puma Norte Clásico 56,Electrohogar,Microondas,Puma Norte,1224.84,951.15,2022-11-04
+P0097,Fideos y pastas Sami Max 83,Abarrotes,Fideos y pastas,Sami,10.42,7.42,2022-11-07
+P0098,Jabones Nuna Max 8,Cuidado Personal,Jabones,Nuna,72.35,56.35,2022-04-17
+P0099,Aguas Inti Lite 24,Bebidas,Aguas,Inti,2.47,1.66,2020-09-01
+P0100,Hervidores Pacífico Familiar 88,Electrohogar,Hervidores,Pacífico,676.15,448.92,2018-10-24
+P0101,Conservas Runa Eco 52,Abarrotes,Conservas,Runa,7.45,5.46,2019-09-20
+P0102,Shampoo Pacífico Familiar 68,Cuidado Personal,Shampoo,Pacífico,7.67,5.29,2020-10-02
+P0103,Textil hogar Kusi Premium 19,Hogar,Textil hogar,Kusi,336.07,257.68,2018-12-16
+P0104,Cuidado dental Andes Eco 69,Cuidado Personal,Cuidado dental,Andes,51.73,38.14,2021-11-13
+P0105,Cervezas Chaska Eco 56,Bebidas,Cervezas,Chaska,50.5,33.89,2020-05-13
+P0106,Jabones Kusi Max 7,Cuidado Personal,Jabones,Kusi,6.58,4.73,2020-07-14
+P0107,Cervezas Andes Clásico 16,Bebidas,Cervezas,Andes,2.1,1.61,2018-08-03
+P0108,Afeitado Nuna Max 19,Cuidado Personal,Afeitado,Nuna,53.01,35.58,2018-07-12
+P0109,Aceites Yachay Clásico 17,Abarrotes,Aceites,Yachay,3.48,2.35,2021-02-14
+P0110,Aguas Misti Clásico 1,Bebidas,Aguas,Misti,4.34,2.73,2022-09-11
+P0111,Arroz y menestras Puma Norte Eco 54,Abarrotes,Arroz y menestras,Puma Norte,51.01,35.03,2018-11-24
+P0112,Snacks Kusi Eco 54,Abarrotes,Snacks,Kusi,2.97,1.82,2022-01-28
+P0113,Ambientadores Nuna Lite 50,Limpieza,Ambientadores,Nuna,21.4,14.29,2019-08-20
+P0114,Fideos y pastas Qori Familiar 30,Abarrotes,Fideos y pastas,Qori,4.14,3.11,2021-04-21
+P0115,Lavavajillas Kusi Max 76,Limpieza,Lavavajillas,Kusi,55.31,37.27,2021-11-20
+P0116,Afeitado Nuna Max 37,Cuidado Personal,Afeitado,Nuna,11.64,7.39,2022-10-20
+P0117,Textil hogar Wayra Max 63,Hogar,Textil hogar,Wayra,42.11,32.19,2021-07-07
+P0118,Energizantes Chaska Max 9,Bebidas,Energizantes,Chaska,47.36,28.94,2021-05-14
+P0119,Vinos y licores Tika Premium 15,Bebidas,Vinos y licores,Tika,15.95,12.02,2019-03-21
+P0120,Vinos y licores Chaska Max 34,Bebidas,Vinos y licores,Chaska,58.92,44.34,2019-12-05
+P0121,Aceites Sami Max 26,Abarrotes,Aceites,Sami,18.14,12.19,2021-02-18
+P0122,Jabones Wayra Familiar 14,Cuidado Personal,Jabones,Wayra,27.93,17.9,2021-12-19
+P0123,Licuadoras Pacífico Premium 79,Electrohogar,Licuadoras,Pacífico,1848.67,1434.27,2022-10-10
+P0124,Detergentes Sami Clásico 49,Limpieza,Detergentes,Sami,27.38,20.41,2020-09-22
+P0125,Desinfectantes Tika Premium 72,Limpieza,Desinfectantes,Tika,10.41,6.57,2021-09-30
+P0126,Menaje Runa Familiar 43,Hogar,Menaje,Runa,89.52,66.12,2019-02-17
+P0127,Cuidado dental Killa Clásico 78,Cuidado Personal,Cuidado dental,Killa,36.13,22.08,2019-07-11
+P0128,Televisores Puma Norte Familiar 91,Electrohogar,Televisores,Puma Norte,182.17,117.82,2021-02-26
+P0129,Textil hogar Chaska Familiar 56,Hogar,Textil hogar,Chaska,17.13,11.98,2022-10-23
+P0130,Arroz y menestras Qori Eco 91,Abarrotes,Arroz y menestras,Qori,19.39,13.54,2022-06-11
+P0131,Cuidado dental Pacífico Clásico 85,Cuidado Personal,Cuidado dental,Pacífico,59.92,47.33,2020-10-13
+P0132,Shampoo Wayra Premium 55,Cuidado Personal,Shampoo,Wayra,49.48,39.41,2018-11-26
+P0133,Licuadoras Chaska Clásico 63,Electrohogar,Licuadoras,Chaska,99.58,71.4,2021-07-07
+P0134,Gaseosas Sami Max 68,Bebidas,Gaseosas,Sami,16.37,10.82,2022-09-15
+P0135,Afeitado Puma Norte Familiar 26,Cuidado Personal,Afeitado,Puma Norte,10.82,8.41,2022-01-11
+P0136,Cuidado dental Nuna Eco 87,Cuidado Personal,Cuidado dental,Nuna,7.44,5.57,2022-08-14
+P0137,Vinos y licores Sami Lite 37,Bebidas,Vinos y licores,Sami,29.73,20.58,2019-11-23
+P0138,Snacks Killa Clásico 39,Abarrotes,Snacks,Killa,6.81,5.06,2020-05-14
+P0139,Cervezas Kusi Max 18,Bebidas,Cervezas,Kusi,11.47,8.44,2022-02-20
+P0140,Textil hogar Killa Eco 69,Hogar,Textil hogar,Killa,602.99,444.23,2020-11-07
+P0141,Conservas Sami Clásico 74,Abarrotes,Conservas,Sami,3.19,2.06,2019-05-29
+P0142,Snacks Kusi Max 58,Abarrotes,Snacks,Kusi,2.7,1.86,2018-08-04
+P0143,Energizantes Puma Norte Familiar 14,Bebidas,Energizantes,Puma Norte,6.52,4.15,2019-01-01
+P0144,Conservas Chaska Familiar 5,Abarrotes,Conservas,Chaska,2.63,1.67,2022-06-30
+P0145,Gaseosas Tika Lite 87,Bebidas,Gaseosas,Tika,74.91,49.85,2018-10-03
+P0146,Muebles pequeños Puma Norte Clásico 92,Hogar,Muebles pequeños,Puma Norte,17.76,12.8,2020-01-29
+P0147,Jugos Tika Familiar 36,Bebidas,Jugos,Tika,15.42,11.21,2020-02-09
+P0148,Cuidado dental Tika Clásico 84,Cuidado Personal,Cuidado dental,Tika,15.43,11.31,2021-12-19
+P0149,Aceites Nuna Eco 16,Abarrotes,Aceites,Nuna,4.8,3.63,2018-08-23
+P0150,Cuidado dental Killa Clásico 53,Cuidado Personal,Cuidado dental,Killa,6.31,4.16,2020-10-22
+P0151,Harinas y azúcar Kusi Premium 13,Abarrotes,Harinas y azúcar,Kusi,3.79,2.84,2019-12-29
+P0152,Lavado Qori Lite 40,Electrohogar,Lavado,Qori,543.95,392.68,2019-11-19
+P0153,Detergentes Inti Max 48,Limpieza,Detergentes,Inti,11.31,9.02,2019-12-26
+P0154,Arroz y menestras Wayra Clásico 74,Abarrotes,Arroz y menestras,Wayra,18.56,11.7,2019-01-26
+P0155,Hervidores Runa Familiar 80,Electrohogar,Hervidores,Runa,322.18,217.74,2022-10-08
+P0156,Ambientadores Sami Lite 69,Limpieza,Ambientadores,Sami,5.02,3.15,2021-01-30
+P0157,Desinfectantes Qori Eco 72,Limpieza,Desinfectantes,Qori,36.61,24.77,2022-02-15
+P0158,Vinos y licores Inti Familiar 30,Bebidas,Vinos y licores,Inti,3.0,1.85,2019-03-20
+P0159,Refrigeración Pacífico Eco 62,Electrohogar,Refrigeración,Pacífico,379.96,262.93,2020-11-06
+P0160,Aguas Nuna Eco 96,Bebidas,Aguas,Nuna,26.01,16.76,2020-06-19
+P0161,Snacks Misti Premium 87,Abarrotes,Snacks,Misti,20.66,12.45,2020-01-12
+P0162,Textil hogar Runa Clásico 73,Hogar,Textil hogar,Runa,41.81,30.77,2021-03-14
+P0163,Snacks Tika Max 33,Abarrotes,Snacks,Tika,47.91,38.22,2021-07-23
+P0164,Snacks Runa Eco 55,Abarrotes,Snacks,Runa,3.1,1.9,2018-11-02
+P0165,Desinfectantes Nuna Premium 73,Limpieza,Desinfectantes,Nuna,8.52,5.27,2020-04-23
+P0166,Fideos y pastas Qori Clásico 29,Abarrotes,Fideos y pastas,Qori,38.62,25.55,2019-05-27
+P0167,Jugos Runa Eco 85,Bebidas,Jugos,Runa,7.13,5.46,2022-08-24
+P0168,Cuidado de piel Chaska Familiar 75,Cuidado Personal,Cuidado de piel,Chaska,12.7,8.9,2018-09-23
+P0169,Textil hogar Sami Max 15,Hogar,Textil hogar,Sami,112.27,83.59,2020-12-17
+P0170,Menaje Yachay Premium 14,Hogar,Menaje,Yachay,242.95,150.49,2022-04-12
+P0171,Harinas y azúcar Qori Lite 41,Abarrotes,Harinas y azúcar,Qori,15.35,12.11,2020-07-18
+P0172,Organización Yachay Familiar 17,Hogar,Organización,Yachay,264.28,179.26,2021-11-25
+P0173,Aceites Sami Max 16,Abarrotes,Aceites,Sami,5.14,3.61,2019-05-15
+P0174,Microondas Kusi Clásico 19,Electrohogar,Microondas,Kusi,415.81,298.21,2021-09-14
+P0175,Energizantes Yachay Clásico 90,Bebidas,Energizantes,Yachay,39.21,29.91,2022-06-14
+P0176,Jabones Andes Clásico 88,Cuidado Personal,Jabones,Andes,20.38,15.96,2019-02-07
+P0177,Jabones Sami Max 2,Cuidado Personal,Jabones,Sami,66.66,46.51,2020-11-23
+P0178,Textil hogar Puma Norte Lite 11,Hogar,Textil hogar,Puma Norte,51.45,38.54,2022-01-14
+P0179,Muebles pequeños Tika Familiar 25,Hogar,Muebles pequeños,Tika,112.41,71.66,2020-11-02
+P0180,Aguas Runa Familiar 85,Bebidas,Aguas,Runa,24.21,15.15,2022-10-21
+P0181,Cuidado dental Yachay Premium 64,Cuidado Personal,Cuidado dental,,53.51,37.61,2019-03-30
+P0182,Televisores Kusi Eco 36,Electrohogar,Televisores,Kusi,544.54,385.56,2022-04-20
+P0183,Snacks Andes Max 42,Abarrotes,Snacks,Andes,51.39,37.87,2020-04-08
+P0184,Cuidado de piel Puma Norte Lite 27,Cuidado Personal,Cuidado de piel,Puma Norte,16.69,10.39,2020-06-05
+P0185,Vinos y licores Chaska Premium 11,Bebidas,Vinos y licores,Chaska,7.87,5.99,2020-05-18
+P0186,Fideos y pastas Sami Eco 40,Abarrotes,Fideos y pastas,Sami,30.53,20.24,2018-11-17
+P0187,Lavavajillas Andes Clásico 3,Limpieza,Lavavajillas,Andes,22.72,13.97,2019-11-21
+P0188,Desinfectantes Yachay Max 14,Limpieza,Desinfectantes,Yachay,12.5,9.79,2020-01-24
+P0189,Cuidado de piel Nuna Clásico 25,Cuidado Personal,Cuidado de piel,Nuna,39.15,25.22,2019-09-15
+P0190,Jabones Wayra Familiar 30,Cuidado Personal,Jabones,Wayra,5.69,4.14,2020-10-01
+P0191,Desinfectantes Runa Lite 40,Limpieza,Desinfectantes,Runa,56.11,40.87,2022-01-06
+P0192,Decoración Inti Lite 75,Hogar,Decoración,Inti,54.65,41.32,2020-05-20
+P0193,Snacks Wayra Clásico 95,Abarrotes,Snacks,Wayra,11.36,8.43,2020-08-13
+P0194,Vinos y licores Misti Lite 26,Bebidas,Vinos y licores,Misti,30.38,19.65,2019-12-26
+P0195,Vinos y licores Chaska Max 71,Bebidas,Vinos y licores,Chaska,7.31,4.8,2020-09-06
+P0196,Licuadoras Pacífico Eco 43,Electrohogar,Licuadoras,Pacífico,188.76,136.06,2019-01-24
+P0197,Afeitado Runa Lite 98,Cuidado Personal,Afeitado,Runa,32.31,20.86,2022-02-01
+P0198,Snacks Inti Max 76,Abarrotes,Snacks,Inti,19.47,15.41,2022-02-02
+P0199,Licuadoras Wayra Premium 93,Electrohogar,Licuadoras,Wayra,1764.1,1392.46,2022-03-05
+P0200,Microondas Pacífico Familiar 91,Electrohogar,Microondas,Pacífico,2027.67,1615.54,2022-04-26
+P0201,Lavado Chaska Familiar 17,Electrohogar,Lavado,Chaska,2401.98,1612.47,2019-07-24
+P0202,Arroz y menestras Tika Max 13,Abarrotes,Arroz y menestras,Tika,44.33,29.37,2022-10-16
+P0203,Snacks Nuna Premium 18,Abarrotes,Snacks,Nuna,36.29,29.0,2022-06-15
+P0204,Textil hogar Puma Norte Familiar 61,Hogar,Textil hogar,Puma Norte,37.66,27.6,2021-05-31
+P0205,Decoración Runa Familiar 19,Hogar,Decoración,Runa,350.02,221.93,2020-05-08
+P0206,Aceites Inti Eco 86,Abarrotes,Aceites,Inti,23.06,18.09,2022-01-11
+P0207,Lavavajillas Tika Lite 82,Limpieza,Lavavajillas,Tika,10.49,8.2,2022-04-29
+P0208,Gaseosas Yachay Max 19,Bebidas,Gaseosas,Yachay,33.01,25.95,2021-07-10
+P0209,Energizantes Andes Eco 33,Bebidas,Energizantes,Andes,16.86,10.62,2022-10-28
+P0210,Aceites Nuna Max 95,Abarrotes,Aceites,Nuna,15.36,10.06,2020-02-06
+P0211,Aguas Tika Max 5,Bebidas,Aguas,Tika,69.66,53.31,2019-03-24
+P0212,Gaseosas Inti Familiar 92,Bebidas,Gaseosas,Inti,24.32,15.66,2021-01-14
+P0213,Organización Inti Premium 58,Hogar,Organización,Inti,130.75,91.74,2021-01-31
+P0214,Shampoo Puma Norte Clásico 50,Cuidado Personal,Shampoo,Puma Norte,5.21,3.39,2020-12-07
+P0215,Harinas y azúcar Sami Lite 46,Abarrotes,Harinas y azúcar,Sami,5.75,3.55,2019-01-07
+P0216,Detergentes Yachay Familiar 38,Limpieza,Detergentes,Yachay,13.98,10.31,2021-09-23
+P0217,Detergentes Kusi Familiar 54,Limpieza,Detergentes,Kusi,17.03,11.76,2021-01-04
+P0218,Jabones Runa Premium 15,Cuidado Personal,Jabones,Runa,9.89,6.57,2021-01-24
+P0219,Ambientadores Killa Premium 24,Limpieza,Ambientadores,Killa,6.05,3.94,2019-06-27
+P0220,Lavavajillas Wayra Familiar 40,Limpieza,Lavavajillas,Wayra,7.61,4.95,2019-11-05
+P0221,Cervezas Wayra Lite 4,Bebidas,Cervezas,Wayra,41.21,27.72,2019-09-22
+P0222,Shampoo Pacífico Familiar 38,Cuidado Personal,Shampoo,Pacífico,47.94,36.13,2021-01-04
+P0223,Organización Chaska Lite 3,Hogar,Organización,Chaska,209.51,150.06,2018-12-24
+P0224,Detergentes Kusi Eco 7,Limpieza,Detergentes,Kusi,44.0,31.92,2019-09-15
+P0225,Muebles pequeños Wayra Max 81,Hogar,Muebles pequeños,Wayra,512.24,325.9,2022-10-18
+P0226,Harinas y azúcar Misti Familiar 12,Abarrotes,Harinas y azúcar,,40.64,26.95,2019-04-17
+P0227,Snacks Yachay Eco 93,Abarrotes,Snacks,Yachay,48.57,36.49,2021-08-02
+P0228,Organización Kusi Clásico 23,Hogar,Organización,Kusi,146.39,97.83,2021-12-02
+P0229,Shampoo Nuna Clásico 52,Cuidado Personal,Shampoo,Nuna,53.55,39.02,2021-10-03
+P0230,Papel higiénico Nuna Familiar 72,Limpieza,Papel higiénico,Nuna,8.89,5.37,2019-05-10
+P0231,Jugos Nuna Lite 37,Bebidas,Jugos,Nuna,9.86,7.33,2021-05-05
+P0232,Aguas Inti Familiar 90,Bebidas,Aguas,Inti,6.57,4.55,2020-10-16
+P0233,Cuidado de piel Runa Max 40,Cuidado Personal,Cuidado de piel,Runa,63.92,41.56,2019-10-06
+P0234,Jugos Kusi Lite 67,Bebidas,Jugos,Kusi,60.56,43.97,2022-04-09
+P0235,Papel higiénico Pacífico Familiar 4,Limpieza,Papel higiénico,Pacífico,5.52,4.03,2019-10-30
+P0236,Hervidores Misti Eco 5,Electrohogar,Hervidores,Misti,237.07,184.17,2019-12-07
+P0237,Textil hogar Yachay Lite 55,Hogar,Textil hogar,Yachay,207.75,133.59,2019-09-10
+P0238,Decoración Nuna Familiar 68,Hogar,Decoración,Nuna,118.48,90.26,2018-10-22
+P0239,Papel higiénico Yachay Max 62,Limpieza,Papel higiénico,Yachay,26.05,19.93,2020-05-14
+P0240,Conservas Misti Premium 72,Abarrotes,Conservas,Misti,3.23,2.24,2022-07-17
+P0241,Conservas Tika Max 2,Abarrotes,Conservas,Tika,3.02,1.98,2021-12-31
+P0242,Lavavajillas Pacífico Familiar 28,Limpieza,Lavavajillas,Pacífico,14.75,9.82,2020-05-18
+P0243,Aceites Yachay Clásico 51,Abarrotes,Aceites,Yachay,5.13,3.96,2018-08-06
+P0244,Aceites Chaska Eco 6,Abarrotes,Aceites,Chaska,10.46,7.62,2018-12-16
+P0245,Aceites Inti Max 32,Abarrotes,Aceites,Inti,4.5,3.11,2018-08-18
+P0246,Decoración Misti Familiar 34,Hogar,Decoración,Misti,375.24,228.94,2019-01-28
+P0247,Fideos y pastas Runa Clásico 29,Abarrotes,Fideos y pastas,Runa,3.02,2.1,2021-08-04
+P0248,Aceites Chaska Max 70,Abarrotes,Aceites,Chaska,37.17,26.07,2021-02-07
+P0249,Muebles pequeños Sami Eco 85,Hogar,Muebles pequeños,Sami,564.73,414.61,2022-09-17
+P0250,Cuidado de piel Qori Max 94,Cuidado Personal,Cuidado de piel,Qori,59.21,46.13,2020-02-04
+P0251,Microondas Kusi Lite 38,Electrohogar,Microondas,Kusi,100.02,77.62,2022-01-05
+P0252,Cervezas Kusi Clásico 65,Bebidas,Cervezas,,3.47,2.14,2021-03-29
+P0253,Muebles pequeños Puma Norte Lite 76,Hogar,Muebles pequeños,Puma Norte,19.21,13.41,2021-06-15
+P0254,Organización Runa Premium 7,Hogar,Organización,Runa,63.37,40.08,2021-04-11
+P0255,Papel higiénico Kusi Lite 43,Limpieza,Papel higiénico,Kusi,4.52,2.81,2022-08-30
+P0256,Decoración Qori Eco 9,Hogar,Decoración,Qori,437.06,319.83,2019-12-10
+P0257,Lavavajillas Qori Familiar 71,Limpieza,Lavavajillas,Qori,23.73,18.89,2019-06-29
+P0258,Ambientadores Tika Familiar 55,Limpieza,Ambientadores,Tika,53.96,39.43,2020-08-05
+P0259,Hervidores Kusi Max 82,Electrohogar,Hervidores,Kusi,418.95,309.95,2022-11-26
+P0260,Afeitado Pacífico Eco 43,Cuidado Personal,Afeitado,Pacífico,8.72,5.33,2022-06-15
+P0261,Conservas Kusi Clásico 25,Abarrotes,Conservas,Kusi,43.47,29.27,2021-08-05
+P0262,Detergentes Nuna Premium 83,Limpieza,Detergentes,Nuna,13.41,8.23,2022-05-18
+P0263,Snacks Wayra Lite 87,Abarrotes,Snacks,Wayra,13.96,8.62,2021-07-28
+P0264,Decoración Kusi Clásico 72,Hogar,Decoración,Kusi,57.34,43.57,2022-08-28
+P0265,Lavavajillas Nuna Eco 16,Limpieza,Lavavajillas,Nuna,5.34,3.23,2020-04-07
+P0266,Harinas y azúcar Chaska Max 13,Abarrotes,Harinas y azúcar,Chaska,45.97,30.11,2022-10-05
+P0267,Decoración Wayra Max 95,Hogar,Decoración,Wayra,125.92,85.38,2020-02-13
+P0268,Textil hogar Runa Clásico 22,Hogar,Textil hogar,Runa,22.64,16.27,2021-10-24
+P0269,Licuadoras Inti Familiar 83,Electrohogar,Licuadoras,Inti,443.57,351.25,2020-06-24
+P0270,Lavavajillas Andes Premium 82,Limpieza,Lavavajillas,,39.33,24.12,2018-08-19
+P0271,Afeitado Sami Premium 90,Cuidado Personal,Afeitado,Sami,18.44,11.08,2021-08-20
+P0272,Snacks Chaska Clásico 84,Abarrotes,Snacks,Chaska,5.52,3.79,2019-10-27
+P0273,Harinas y azúcar Pacífico Lite 60,Abarrotes,Harinas y azúcar,Pacífico,5.19,3.21,2022-10-23
+P0274,Vinos y licores Sami Max 94,Bebidas,Vinos y licores,Sami,17.82,12.33,2022-02-07
+P0275,Vinos y licores Inti Clásico 49,Bebidas,Vinos y licores,Inti,40.04,27.94,2019-01-27
+P0276,Licuadoras Chaska Eco 83,Electrohogar,Licuadoras,,1458.59,881.86,2021-12-16
+P0277,Arroz y menestras Inti Max 63,Abarrotes,Arroz y menestras,Inti,11.35,6.89,2019-12-14
+P0278,Snacks Runa Premium 38,Abarrotes,Snacks,Runa,7.84,5.96,2022-07-25
+P0279,Cuidado de piel Sami Lite 56,Cuidado Personal,Cuidado de piel,Sami,9.7,6.96,2020-12-13
+P0280,Decoración Kusi Familiar 46,Hogar,Decoración,Kusi,324.92,247.74,2020-01-22
+P0281,Decoración Killa Eco 66,Hogar,Decoración,Killa,15.63,11.87,2021-01-12
+P0282,Televisores Andes Familiar 15,Electrohogar,Televisores,Andes,868.17,532.46,2021-10-02
+P0283,Decoración Qori Lite 29,Hogar,Decoración,Qori,16.55,13.03,2019-01-11
+P0284,Papel higiénico Inti Clásico 85,Limpieza,Papel higiénico,Inti,14.27,9.16,2021-04-17
+P0285,Refrigeración Nuna Familiar 23,Electrohogar,Refrigeración,Nuna,194.63,128.08,2019-01-21
+P0286,Jugos Yachay Eco 35,Bebidas,Jugos,,2.61,1.74,2019-02-02
+P0287,Aguas Kusi Familiar 30,Bebidas,Aguas,Kusi,2.42,1.48,2020-02-10
+P0288,Organización Yachay Lite 86,Hogar,Organización,Yachay,180.97,136.16,2021-06-04
+P0289,Papel higiénico Chaska Premium 80,Limpieza,Papel higiénico,Chaska,26.74,17.73,2021-06-16
+P0290,Lavado Qori Eco 66,Electrohogar,Lavado,Qori,1858.69,1459.7,2018-08-28
+P0291,Detergentes Tika Lite 5,Limpieza,Detergentes,Tika,12.58,9.77,2021-02-10
+P0292,Snacks Sami Max 73,Abarrotes,Snacks,Sami,4.85,3.46,2020-02-13
+P0293,Snacks Runa Familiar 34,Abarrotes,Snacks,Runa,5.97,3.83,2020-03-30
+P0294,Papel higiénico Killa Clásico 49,Limpieza,Papel higiénico,Killa,23.01,13.92,2019-08-06
+P0295,Afeitado Runa Max 77,Cuidado Personal,Afeitado,Runa,12.26,8.3,2020-05-29
+P0296,Televisores Andes Familiar 23,Electrohogar,Televisores,Andes,1058.7,682.93,2019-07-05
+P0297,Energizantes Kusi Familiar 88,Bebidas,Energizantes,Kusi,19.54,14.96,2019-02-01
+P0298,Fideos y pastas Wayra Max 91,Abarrotes,Fideos y pastas,Wayra,4.3,2.78,2020-12-14
+P0299,Lavavajillas Nuna Familiar 50,Limpieza,Lavavajillas,Nuna,8.54,5.71,2021-06-26
+P0300,Harinas y azúcar Runa Eco 28,Abarrotes,Harinas y azúcar,Runa,22.0,15.28,2022-09-15
+P0301,Energizantes Wayra Max 18,Bebidas,Energizantes,Wayra,2.43,1.56,2021-08-01
+P0302,Jabones Qori Eco 25,Cuidado Personal,Jabones,Qori,46.58,29.17,2020-04-20
+P0303,Aguas Misti Eco 79,Bebidas,Aguas,Misti,2.88,2.09,2019-09-01
+P0304,Ambientadores Yachay Max 9,Limpieza,Ambientadores,Yachay,28.38,18.04,2019-03-10
+P0305,Fideos y pastas Runa Premium 1,Abarrotes,Fideos y pastas,Runa,17.65,11.82,2018-08-19
+P0306,Aceites Nuna Lite 8,Abarrotes,Aceites,Nuna,21.67,13.02,2019-10-07
+P0307,Refrigeración Inti Max 97,Electrohogar,Refrigeración,Inti,1198.88,935.97,2020-08-31
+P0308,Desinfectantes Kusi Lite 21,Limpieza,Desinfectantes,Kusi,15.38,11.44,2019-09-15
+P0309,Muebles pequeños Runa Max 23,Hogar,Muebles pequeños,Runa,39.9,28.71,2019-12-07
+P0310,Organización Misti Premium 3,Hogar,Organización,Misti,43.3,28.52,2022-09-30
+P0311,Harinas y azúcar Runa Lite 92,Abarrotes,Harinas y azúcar,,19.84,14.38,2021-03-07
+P0312,Aguas Tika Premium 67,Bebidas,Aguas,Tika,59.31,46.69,2022-04-12
+P0313,Lavavajillas Nuna Lite 10,Limpieza,Lavavajillas,Nuna,5.35,3.89,2020-12-31
+P0314,Harinas y azúcar Qori Lite 34,Abarrotes,Harinas y azúcar,Qori,6.68,5.11,2021-06-07
+P0315,Arroz y menestras Chaska Familiar 65,Abarrotes,Arroz y menestras,Chaska,12.82,8.83,2022-10-28
+P0316,Hervidores Inti Familiar 19,Electrohogar,Hervidores,Inti,1146.27,886.66,2020-10-28
+P0317,Lavado Tika Familiar 62,Electrohogar,Lavado,Tika,890.86,663.0,2019-09-18
+P0318,Aguas Andes Premium 11,Bebidas,Aguas,Andes,6.78,4.7,2021-05-10
+P0319,Jabones Tika Clásico 40,Cuidado Personal,Jabones,Tika,47.83,29.64,2021-11-25
+P0320,Lavavajillas Sami Premium 21,Limpieza,Lavavajillas,Sami,56.81,35.71,2019-12-12
+P0321,Refrigeración Sami Max 69,Electrohogar,Refrigeración,Sami,1116.31,761.38,2021-06-20
+P0322,Cervezas Puma Norte Max 86,Bebidas,Cervezas,Puma Norte,2.61,1.95,2018-07-30
+P0323,Detergentes Chaska Premium 67,Limpieza,Detergentes,Chaska,56.54,41.85,2022-11-25
+P0324,Organización Kusi Max 36,Hogar,Organización,Kusi,569.98,433.47,2020-08-18
+P0325,Licuadoras Andes Lite 88,Electrohogar,Licuadoras,Andes,926.97,605.8,2022-11-12
+P0326,Energizantes Pacífico Premium 74,Bebidas,Energizantes,Pacífico,66.22,48.19,2021-07-25
+P0327,Decoración Inti Lite 40,Hogar,Decoración,Inti,55.48,44.16,2022-05-19
+P0328,Vinos y licores Qori Eco 6,Bebidas,Vinos y licores,Qori,6.93,5.49,2022-09-03
+P0329,Shampoo Qori Clásico 86,Cuidado Personal,Shampoo,Qori,29.94,18.55,2022-07-30
+P0330,Cuidado dental Killa Lite 56,Cuidado Personal,Cuidado dental,Killa,89.55,70.37,2020-04-23
+P0331,Energizantes Yachay Familiar 31,Bebidas,Energizantes,Yachay,6.59,4.28,2022-11-22
+P0332,Televisores Nuna Clásico 27,Electrohogar,Televisores,Nuna,190.63,121.76,2022-10-11
+P0333,Lavavajillas Runa Premium 67,Limpieza,Lavavajillas,Runa,9.32,7.06,2019-07-26
+P0334,Menaje Pacífico Lite 52,Hogar,Menaje,Pacífico,29.33,22.5,2022-03-26
+P0335,Muebles pequeños Misti Premium 62,Hogar,Muebles pequeños,Misti,68.34,43.1,2020-01-24
+P0336,Textil hogar Misti Lite 62,Hogar,Textil hogar,Misti,14.86,8.98,2019-06-05
+P0337,Muebles pequeños Misti Familiar 65,Hogar,Muebles pequeños,Misti,270.57,179.01,2020-02-18
+P0338,Fideos y pastas Runa Eco 61,Abarrotes,Fideos y pastas,Runa,9.91,7.92,2021-05-17
+P0339,Cuidado de piel Andes Familiar 90,Cuidado Personal,Cuidado de piel,Andes,6.45,5.14,2020-12-24
+P0340,Microondas Misti Familiar 69,Electrohogar,Microondas,Misti,2771.97,1766.03,2020-08-24
+P0341,Papel higiénico Puma Norte Max 11,Limpieza,Papel higiénico,Puma Norte,9.09,5.67,2022-01-19
+P0342,Ambientadores Andes Clásico 97,Limpieza,Ambientadores,Andes,9.03,5.87,2021-02-14
+P0343,Fideos y pastas Tika Premium 84,Abarrotes,Fideos y pastas,Tika,13.42,10.42,2019-05-14
+P0344,Arroz y menestras Nuna Clásico 54,Abarrotes,Arroz y menestras,Nuna,2.62,1.74,2021-05-02
+P0345,Televisores Tika Lite 59,Electrohogar,Televisores,Tika,787.74,547.84,2019-03-20
+P0346,Harinas y azúcar Tika Premium 21,Abarrotes,Harinas y azúcar,Tika,7.37,5.05,2022-07-10
+P0347,Licuadoras Inti Premium 2,Electrohogar,Licuadoras,Inti,93.48,67.74,2022-10-11
+P0348,Snacks Pacífico Premium 84,Abarrotes,Snacks,Pacífico,4.19,3.18,2022-03-01
+P0349,Cervezas Qori Max 3,Bebidas,Cervezas,Qori,9.28,6.06,2022-04-05
+P0350,Fideos y pastas Sami Lite 57,Abarrotes,Fideos y pastas,Sami,4.35,2.88,2021-08-31
+P0351,Cuidado dental Chaska Lite 68,Cuidado Personal,Cuidado dental,Chaska,52.48,36.07,2022-01-30
+P0352,Jugos Pacífico Clásico 95,Bebidas,Jugos,Pacífico,5.74,3.72,2021-05-20
+P0353,Papel higiénico Runa Eco 68,Limpieza,Papel higiénico,Runa,17.82,13.58,2018-11-26
+P0354,Jugos Yachay Familiar 78,Bebidas,Jugos,Yachay,4.99,3.19,2020-03-11
+P0355,Papel higiénico Inti Clásico 98,Limpieza,Papel higiénico,Inti,10.11,6.88,2021-10-17
+P0356,Jabones Runa Premium 19,Cuidado Personal,Jabones,Runa,8.32,6.23,2019-02-22
+P0357,Aceites Andes Eco 38,Abarrotes,Aceites,Andes,6.46,5.07,2021-10-31
+P0358,Lavado Sami Max 53,Electrohogar,Lavado,Sami,100.92,75.07,2022-12-29
+P0359,Licuadoras Puma Norte Lite 48,Electrohogar,Licuadoras,Puma Norte,167.58,114.44,2018-08-10
+P0360,Organización Kusi Familiar 43,Hogar,Organización,Kusi,14.26,11.14,2019-07-01
+P0361,Energizantes Wayra Eco 67,Bebidas,Energizantes,Wayra,5.92,4.27,2022-04-27
+P0362,Muebles pequeños Kusi Max 26,Hogar,Muebles pequeños,Kusi,125.11,96.39,2021-02-17
+P0363,Harinas y azúcar Yachay Max 53,Abarrotes,Harinas y azúcar,Yachay,4.36,2.98,2021-02-01
+P0364,Menaje Yachay Familiar 52,Hogar,Menaje,Yachay,18.18,13.08,2022-10-19
+P0365,Aceites Qori Clásico 5,Abarrotes,Aceites,Qori,54.9,41.8,2020-03-24
+P0366,Vinos y licores Qori Clásico 51,Bebidas,Vinos y licores,Qori,4.38,2.72,2022-10-31
+P0367,Harinas y azúcar Puma Norte Eco 49,Abarrotes,Harinas y azúcar,Puma Norte,37.56,28.08,2020-11-01
+P0368,Lavado Wayra Eco 76,Electrohogar,Lavado,Wayra,449.82,274.18,2021-05-28
+P0369,Ambientadores Andes Max 7,Limpieza,Ambientadores,Andes,19.71,13.82,2019-03-27
+P0370,Muebles pequeños Runa Clásico 5,Hogar,Muebles pequeños,Runa,56.04,40.89,2020-10-19
+P0371,Fideos y pastas Puma Norte Familiar 49,Abarrotes,Fideos y pastas,,3.78,2.47,2018-11-28
+P0372,Textil hogar Qori Clásico 23,Hogar,Textil hogar,Qori,229.94,155.71,2021-10-20
+P0373,Cervezas Wayra Premium 66,Bebidas,Cervezas,Wayra,23.82,16.19,2020-01-07
+P0374,Harinas y azúcar Yachay Familiar 42,Abarrotes,Harinas y azúcar,Yachay,3.66,2.51,2019-09-11
+P0375,Shampoo Qori Lite 58,Cuidado Personal,Shampoo,Qori,89.6,67.23,2018-09-17
+P0376,Arroz y menestras Nuna Max 68,Abarrotes,Arroz y menestras,Nuna,30.31,18.57,2021-03-05
+P0377,Ambientadores Wayra Lite 11,Limpieza,Ambientadores,Wayra,37.2,28.23,2022-01-17
+P0378,Desinfectantes Tika Premium 65,Limpieza,Desinfectantes,Tika,51.2,31.37,2019-04-02
+P0379,Aceites Andes Premium 12,Abarrotes,Aceites,Andes,3.3,2.59,2019-11-02
+P0380,Desinfectantes Tika Eco 41,Limpieza,Desinfectantes,Tika,55.81,38.8,2020-12-11
+P0381,Energizantes Misti Eco 42,Bebidas,Energizantes,Misti,10.68,8.13,2020-02-15
+P0382,Aguas Runa Familiar 46,Bebidas,Aguas,Runa,3.98,2.73,2022-11-16
+P0383,Muebles pequeños Qori Eco 95,Hogar,Muebles pequeños,Qori,27.46,21.44,2019-05-16
+P0384,Jabones Killa Premium 84,Cuidado Personal,Jabones,Killa,7.19,4.81,2021-11-12
+P0385,Conservas Misti Clásico 6,Abarrotes,Conservas,Misti,30.78,18.61,2018-07-27
+P0386,Lavado Andes Max 1,Electrohogar,Lavado,Andes,170.26,133.85,2021-03-27
+P0387,Cervezas Andes Max 74,Bebidas,Cervezas,Andes,12.83,8.15,2020-09-02
+P0388,Shampoo Andes Premium 21,Cuidado Personal,Shampoo,Andes,7.41,5.3,2020-06-01
+P0389,Cervezas Tika Clásico 78,Bebidas,Cervezas,Tika,4.35,3.15,2022-02-27
+P0390,Afeitado Andes Premium 96,Cuidado Personal,Afeitado,Andes,29.94,19.37,2022-07-24
+P0391,Cuidado dental Misti Max 1,Cuidado Personal,Cuidado dental,Misti,8.03,5.27,2022-11-26
+P0392,Jugos Chaska Eco 48,Bebidas,Jugos,Chaska,4.55,2.74,2022-12-25
+P0393,Microondas Killa Clásico 66,Electrohogar,Microondas,Killa,1364.77,971.93,2019-04-17
+P0394,Cuidado dental Killa Max 72,Cuidado Personal,Cuidado dental,Killa,15.71,10.14,2020-10-31
+P0395,Jabones Runa Clásico 50,Cuidado Personal,Jabones,Runa,28.97,19.8,2019-05-01
+P0396,Harinas y azúcar Kusi Premium 28,Abarrotes,Harinas y azúcar,Kusi,34.76,27.61,2020-12-08
+P0397,Vinos y licores Wayra Max 97,Bebidas,Vinos y licores,Wayra,41.23,32.14,2019-04-05
+P0398,Aguas Andes Eco 59,Bebidas,Aguas,Andes,5.26,4.05,2022-06-29
+P0399,Arroz y menestras Nuna Clásico 23,Abarrotes,Arroz y menestras,Nuna,23.73,14.92,2020-10-29
+P0400,Conservas Pacífico Clásico 97,Abarrotes,Conservas,Pacífico,45.79,30.89,2022-06-21
+P0401,Jabones Misti Clásico 76,Cuidado Personal,Jabones,Misti,18.25,12.45,2021-05-27
+P0402,Jugos Nuna Premium 50,Bebidas,Jugos,Nuna,5.64,3.56,2018-07-15
+P0403,Lavado Chaska Familiar 21,Electrohogar,Lavado,Chaska,2273.45,1669.16,2020-03-14
+P0404,Arroz y menestras Chaska Premium 97,Abarrotes,Arroz y menestras,Chaska,21.64,14.39,2020-03-03
+P0405,Licuadoras Misti Lite 45,Electrohogar,Licuadoras,Misti,1412.87,916.48,2019-06-30
+P0406,Snacks Nuna Lite 98,Abarrotes,Snacks,Nuna,8.2,5.6,2019-03-20
+P0407,Organización Wayra Eco 49,Hogar,Organización,Wayra,189.65,125.35,2021-04-03
+P0408,Organización Sami Clásico 44,Hogar,Organización,Sami,48.28,29.2,2019-02-03
+P0409,Cuidado dental Puma Norte Lite 97,Cuidado Personal,Cuidado dental,Puma Norte,27.34,19.55,2022-12-06
+P0410,Cervezas Yachay Max 35,Bebidas,Cervezas,Yachay,8.37,5.09,2020-09-10
+P0411,Snacks Puma Norte Clásico 12,Abarrotes,Snacks,Puma Norte,6.49,4.85,2022-06-08
+P0412,Hervidores Sami Lite 49,Electrohogar,Hervidores,Sami,170.03,106.52,2021-10-10
+P0413,Cuidado de piel Qori Familiar 87,Cuidado Personal,Cuidado de piel,Qori,20.15,13.99,2020-03-25
+P0414,Arroz y menestras Inti Lite 46,Abarrotes,Arroz y menestras,Inti,15.49,10.38,2021-04-14
+P0415,Shampoo Chaska Premium 52,Cuidado Personal,Shampoo,Chaska,15.64,10.41,2021-06-03
+P0416,Arroz y menestras Chaska Max 62,Abarrotes,Arroz y menestras,Chaska,2.78,2.06,2020-01-30
+P0417,Detergentes Andes Familiar 14,Limpieza,Detergentes,Andes,37.47,25.22,2022-08-05
+P0418,Shampoo Puma Norte Lite 3,Cuidado Personal,Shampoo,Puma Norte,38.18,27.75,2019-01-25
+P0419,Microondas Runa Premium 49,Electrohogar,Microondas,Runa,1199.92,753.54,2020-11-05
+P0420,Vinos y licores Sami Max 57,Bebidas,Vinos y licores,Sami,8.86,5.43,2022-03-26
+P0421,Harinas y azúcar Runa Premium 93,Abarrotes,Harinas y azúcar,Runa,17.8,12.48,2021-08-01
+P0422,Cervezas Yachay Clásico 79,Bebidas,Cervezas,Yachay,7.78,5.3,2020-07-25
+P0423,Harinas y azúcar Kusi Premium 50,Abarrotes,Harinas y azúcar,Kusi,5.58,3.89,2021-02-21
+P0424,Organización Pacífico Eco 47,Hogar,Organización,Pacífico,15.95,12.63,2018-11-23
+P0425,Menaje Misti Clásico 82,Hogar,Menaje,Misti,320.8,246.97,2022-01-04
+P0426,Shampoo Pacífico Eco 48,Cuidado Personal,Shampoo,Pacífico,14.9,11.1,2018-12-02
+P0427,Harinas y azúcar Wayra Eco 18,Abarrotes,Harinas y azúcar,Wayra,52.98,39.79,2020-09-27
+P0428,Snacks Killa Premium 9,Abarrotes,Snacks,Killa,29.7,20.52,2019-12-03
+P0429,Textil hogar Misti Premium 95,Hogar,Textil hogar,Misti,12.61,8.21,2021-11-23
+P0430,Harinas y azúcar Misti Max 89,Abarrotes,Harinas y azúcar,Misti,11.28,8.45,2019-07-16
+P0431,Aceites Pacífico Familiar 26,Abarrotes,Aceites,Pacífico,9.78,5.88,2019-12-24
+P0432,Microondas Sami Premium 60,Electrohogar,Microondas,Sami,237.86,149.33,2020-10-15
+P0433,Cervezas Wayra Clásico 86,Bebidas,Cervezas,Wayra,28.28,20.43,2020-01-04
+P0434,Jugos Wayra Lite 25,Bebidas,Jugos,Wayra,2.4,1.83,2022-08-01
+P0435,Aguas Killa Max 18,Bebidas,Aguas,Killa,29.56,18.49,2021-10-06
+P0436,Jabones Yachay Eco 77,Cuidado Personal,Jabones,Yachay,15.24,11.54,2022-05-11
+P0437,Lavavajillas Sami Familiar 33,Limpieza,Lavavajillas,Sami,43.69,27.58,2020-04-30
+P0438,Hervidores Andes Max 48,Electrohogar,Hervidores,Andes,1262.15,998.85,2019-04-26
+P0439,Detergentes Inti Clásico 10,Limpieza,Detergentes,Inti,25.43,18.59,2022-02-17
+P0440,Cervezas Wayra Lite 94,Bebidas,Cervezas,Wayra,3.26,2.36,2019-07-06
+P0441,Conservas Sami Eco 48,Abarrotes,Conservas,Sami,22.39,15.16,2021-08-10
+P0442,Microondas Killa Familiar 58,Electrohogar,Microondas,Killa,421.86,259.02,2020-02-01
+P0443,Harinas y azúcar Kusi Clásico 76,Abarrotes,Harinas y azúcar,Kusi,8.2,4.92,2022-01-17
+P0444,Afeitado Qori Lite 71,Cuidado Personal,Afeitado,Qori,66.08,42.01,2020-05-11
+P0445,Cuidado dental Misti Clásico 38,Cuidado Personal,Cuidado dental,Misti,65.4,42.47,2022-02-12
+P0446,Muebles pequeños Puma Norte Premium 3,Hogar,Muebles pequeños,Puma Norte,42.86,29.5,2020-03-26
+P0447,Aceites Killa Lite 44,Abarrotes,Aceites,,33.49,23.95,2019-03-21
+P0448,Harinas y azúcar Sami Max 9,Abarrotes,Harinas y azúcar,Sami,4.8,3.58,2021-11-06
+P0449,Jabones Chaska Lite 89,Cuidado Personal,Jabones,Chaska,20.73,14.96,2021-06-18
+P0450,Vinos y licores Qori Clásico 15,Bebidas,Vinos y licores,Qori,18.77,12.46,2019-02-05
+P0451,Aceites Puma Norte Lite 82,Abarrotes,Aceites,Puma Norte,2.9,1.96,2019-09-22
+P0452,Textil hogar Tika Eco 59,Hogar,Textil hogar,Tika,120.92,79.96,2022-04-06
+P0453,Lavado Wayra Premium 21,Electrohogar,Lavado,Wayra,430.65,286.63,2019-12-16
+P0454,Snacks Andes Premium 47,Abarrotes,Snacks,Andes,28.55,20.76,2022-04-15
+P0455,Harinas y azúcar Runa Lite 37,Abarrotes,Harinas y azúcar,Runa,9.88,6.28,2020-07-06
+P0456,Refrigeración Wayra Clásico 23,Electrohogar,Refrigeración,Wayra,1210.84,796.23,2019-03-06
+P0457,Jabones Qori Max 47,Cuidado Personal,Jabones,Qori,37.62,23.68,2021-04-30
+P0458,Organización Chaska Premium 14,Hogar,Organización,Chaska,348.15,254.48,2019-07-29
+P0459,Papel higiénico Chaska Clásico 83,Limpieza,Papel higiénico,Chaska,6.01,4.7,2022-11-15
+P0460,Conservas Killa Familiar 84,Abarrotes,Conservas,Killa,13.8,9.3,2021-01-13
+P0461,Fideos y pastas Pacífico Lite 62,Abarrotes,Fideos y pastas,Pacífico,4.97,3.32,2019-01-29
+P0462,Energizantes Qori Eco 69,Bebidas,Energizantes,Qori,4.39,3.3,2019-11-03
+P0463,Afeitado Wayra Clásico 17,Cuidado Personal,Afeitado,Wayra,83.15,62.01,2020-07-29
+P0464,Fideos y pastas Yachay Familiar 8,Abarrotes,Fideos y pastas,Yachay,5.47,3.41,2020-04-27
+P0465,Cervezas Nuna Clásico 84,Bebidas,Cervezas,Nuna,19.23,12.5,2018-08-16
+P0466,Cervezas Chaska Eco 30,Bebidas,Cervezas,Chaska,2.23,1.62,2021-09-23
+P0467,Cuidado de piel Tika Familiar 63,Cuidado Personal,Cuidado de piel,Tika,36.53,26.01,2021-07-16
+P0468,Aceites Andes Lite 11,Abarrotes,Aceites,Andes,21.83,17.15,2020-01-13
+P0469,Organización Pacífico Eco 58,Hogar,Organización,Pacífico,445.04,353.12,2021-07-25
+P0470,Jugos Yachay Familiar 86,Bebidas,Jugos,Yachay,30.86,19.6,2022-08-27
+P0471,Hervidores Wayra Max 13,Electrohogar,Hervidores,Wayra,2782.06,1791.29,2022-08-03
+P0472,Lavado Qori Premium 38,Electrohogar,Lavado,Qori,2277.49,1819.44,2022-04-25
+P0473,Textil hogar Tika Familiar 29,Hogar,Textil hogar,Tika,41.37,32.59,2022-10-14
+P0474,Energizantes Nuna Eco 16,Bebidas,Energizantes,Nuna,4.95,3.03,2021-07-06
+P0475,Hervidores Yachay Lite 9,Electrohogar,Hervidores,Yachay,960.6,590.36,2020-12-20
+P0476,Snacks Kusi Premium 55,Abarrotes,Snacks,Kusi,9.69,6.41,2019-06-19
+P0477,Gaseosas Misti Eco 83,Bebidas,Gaseosas,Misti,33.29,24.24,2020-02-07
+P0478,Fideos y pastas Killa Familiar 35,Abarrotes,Fideos y pastas,Killa,4.84,3.71,2020-01-02
+P0479,Ambientadores Pacífico Premium 51,Limpieza,Ambientadores,Pacífico,24.4,19.43,2022-08-27
+P0480,Harinas y azúcar Runa Familiar 19,Abarrotes,Harinas y azúcar,Runa,49.36,38.99,2021-10-07
+P0481,Organización Runa Eco 56,Hogar,Organización,Runa,468.86,321.04,2018-07-29
+P0482,Snacks Chaska Familiar 77,Abarrotes,Snacks,Chaska,11.22,8.57,2021-01-09
+P0483,Papel higiénico Misti Premium 64,Limpieza,Papel higiénico,Misti,8.34,6.27,2019-08-27
+P0484,Lavado Chaska Clásico 16,Electrohogar,Lavado,Chaska,246.5,168.95,2020-01-08
+P0485,Snacks Killa Premium 46,Abarrotes,Snacks,Killa,3.97,2.6,2021-05-29
+P0486,Cuidado dental Inti Eco 71,Cuidado Personal,Cuidado dental,Inti,39.1,30.0,2020-05-19
+P0487,Ambientadores Inti Eco 76,Limpieza,Ambientadores,Inti,50.32,32.77,2022-01-02
+P0488,Refrigeración Sami Eco 73,Electrohogar,Refrigeración,Sami,153.99,113.23,2020-08-27
+P0489,Shampoo Killa Familiar 82,Cuidado Personal,Shampoo,Killa,5.27,3.2,2022-07-03
+P0490,Microondas Qori Max 82,Electrohogar,Microondas,Qori,1080.08,712.62,2020-01-16
+P0491,Lavado Kusi Max 53,Electrohogar,Lavado,Kusi,1181.01,782.52,2018-09-11
+P0492,Cuidado dental Yachay Eco 55,Cuidado Personal,Cuidado dental,Yachay,46.86,29.91,2019-07-06
+P0493,Aguas Tika Lite 90,Bebidas,Aguas,Tika,8.13,5.45,2019-01-25
+P0494,Harinas y azúcar Puma Norte Max 66,Abarrotes,Harinas y azúcar,Puma Norte,4.88,3.53,2022-05-03
+P0495,Aceites Nuna Lite 47,Abarrotes,Aceites,Nuna,25.74,16.63,2019-09-23
+P0496,Organización Runa Familiar 36,Hogar,Organización,Runa,14.31,10.12,2018-08-10
+P0497,Jugos Nuna Eco 91,Bebidas,Jugos,Nuna,14.02,10.34,2019-06-18
+P0498,Organización Misti Clásico 54,Hogar,Organización,Misti,377.63,290.41,2020-07-27
+P0499,Cervezas Runa Eco 5,Bebidas,Cervezas,Runa,3.14,2.25,2019-10-07
+P0500,Conservas Killa Familiar 68,Abarrotes,Conservas,Killa,10.46,6.85,2021-05-06
+P0501,Aguas Runa Max 76,Bebidas,Aguas,Runa,3.57,2.68,2018-11-17
+P0502,Cervezas Kusi Lite 2,Bebidas,Cervezas,Kusi,15.24,12.17,2021-08-15
+P0503,Arroz y menestras Wayra Premium 7,Abarrotes,Arroz y menestras,Wayra,23.18,14.68,2020-12-08
+P0504,Lavavajillas Inti Eco 84,Limpieza,Lavavajillas,Inti,24.96,18.88,2018-07-30
+P0505,Lavado Pacífico Eco 67,Electrohogar,Lavado,Pacífico,225.68,177.95,2018-12-15
+P0506,Aguas Pacífico Max 67,Bebidas,Aguas,Pacífico,4.95,3.31,2020-01-01
+P0507,Lavavajillas Kusi Clásico 12,Limpieza,Lavavajillas,Kusi,6.55,3.94,2019-07-05
+P0508,Organización Wayra Clásico 8,Hogar,Organización,Wayra,22.07,17.09,2020-08-06
+P0509,Arroz y menestras Misti Eco 55,Abarrotes,Arroz y menestras,Misti,16.44,11.33,2021-03-27
+P0510,Detergentes Andes Max 51,Limpieza,Detergentes,Andes,55.38,37.56,2019-04-16
+P0511,Decoración Sami Max 9,Hogar,Decoración,Sami,59.57,37.85,2019-11-29
+P0512,Detergentes Pacífico Premium 15,Limpieza,Detergentes,Pacífico,4.27,3.04,2021-01-23
+P0513,Cuidado dental Chaska Clásico 86,Cuidado Personal,Cuidado dental,,25.9,18.27,2021-09-16
+P0514,Detergentes Puma Norte Clásico 73,Limpieza,Detergentes,Puma Norte,6.04,4.32,2021-07-28
+P0515,Aceites Sami Premium 45,Abarrotes,Aceites,Sami,46.35,33.43,2021-01-10
+P0516,Cuidado de piel Sami Eco 77,Cuidado Personal,Cuidado de piel,Sami,21.65,13.46,2019-01-04
+P0517,Menaje Sami Clásico 62,Hogar,Menaje,Sami,612.33,410.07,2019-09-27
+P0518,Textil hogar Yachay Max 18,Hogar,Textil hogar,Yachay,117.8,73.51,2020-05-27
+P0519,Cuidado de piel Kusi Max 34,Cuidado Personal,Cuidado de piel,Kusi,14.66,10.4,2019-05-10
+P0520,Aguas Wayra Clásico 1,Bebidas,Aguas,Wayra,61.39,39.8,2021-10-23
+P0521,Cuidado dental Misti Premium 63,Cuidado Personal,Cuidado dental,Misti,26.23,19.27,2022-12-12
+P0522,Muebles pequeños Andes Clásico 40,Hogar,Muebles pequeños,Andes,451.73,341.43,2022-12-12
+P0523,Organización Nuna Eco 64,Hogar,Organización,Nuna,168.97,121.28,2022-08-06
+P0524,Aguas Wayra Clásico 79,Bebidas,Aguas,Wayra,2.85,2.21,2021-06-20
+P0525,Muebles pequeños Pacífico Clásico 83,Hogar,Muebles pequeños,Pacífico,44.09,26.89,2020-01-20
+P0526,Refrigeración Andes Clásico 36,Electrohogar,Refrigeración,Andes,287.29,229.83,2020-01-30
+P0527,Muebles pequeños Andes Familiar 27,Hogar,Muebles pequeños,Andes,37.92,25.36,2021-03-28
+P0528,Snacks Wayra Clásico 82,Abarrotes,Snacks,Wayra,30.63,21.2,2019-09-01
+P0529,Muebles pequeños Inti Eco 82,Hogar,Muebles pequeños,Inti,390.33,235.37,2022-06-23
+P0530,Microondas Wayra Familiar 72,Electrohogar,Microondas,Wayra,118.32,75.04,2022-04-12
+P0531,Snacks Runa Max 92,Abarrotes,Snacks,Runa,48.82,38.93,2018-09-09
+P0532,Lavavajillas Pacífico Clásico 63,Limpieza,Lavavajillas,Pacífico,13.96,10.81,2020-09-19
+P0533,Aceites Inti Clásico 92,Abarrotes,Aceites,Inti,9.0,6.39,2018-08-16
+P0534,Hervidores Killa Max 11,Electrohogar,Hervidores,Killa,533.13,334.22,2022-02-22
+P0535,Cuidado dental Chaska Eco 57,Cuidado Personal,Cuidado dental,Chaska,12.6,8.18,2019-08-30
+P0536,Shampoo Tika Premium 72,Cuidado Personal,Shampoo,Tika,32.7,25.09,2021-11-25
+P0537,Televisores Puma Norte Clásico 79,Electrohogar,Televisores,Puma Norte,1915.89,1191.73,2019-06-01
+P0538,Refrigeración Puma Norte Lite 98,Electrohogar,Refrigeración,Puma Norte,1680.29,1126.56,2019-10-01
+P0539,Arroz y menestras Killa Max 37,Abarrotes,Arroz y menestras,Killa,14.6,8.97,2022-04-17
+P0540,Televisores Kusi Eco 21,Electrohogar,Televisores,Kusi,267.0,187.44,2020-04-25
+P0541,Ambientadores Yachay Max 19,Limpieza,Ambientadores,Yachay,5.13,4.09,2019-07-03
+P0542,Aceites Misti Lite 89,Abarrotes,Aceites,Misti,8.31,6.35,2018-10-08
+P0543,Vinos y licores Runa Premium 46,Bebidas,Vinos y licores,Runa,14.05,9.11,2020-05-12
+P0544,Ambientadores Pacífico Familiar 54,Limpieza,Ambientadores,Pacífico,5.83,4.24,2018-10-25
+P0545,Menaje Runa Max 41,Hogar,Menaje,Runa,345.63,210.32,2021-10-03
+P0546,Decoración Runa Eco 9,Hogar,Decoración,Runa,33.38,21.11,2021-06-25
+P0547,Aceites Pacífico Lite 21,Abarrotes,Aceites,Pacífico,3.32,2.49,2021-07-29
+P0548,Desinfectantes Misti Lite 24,Limpieza,Desinfectantes,Misti,32.37,21.31,2021-12-13
+P0549,Microondas Killa Eco 47,Electrohogar,Microondas,Killa,414.93,310.18,2019-11-11
+P0550,Jabones Kusi Max 90,Cuidado Personal,Jabones,Kusi,18.87,12.63,2020-09-07
+P0551,Decoración Chaska Familiar 30,Hogar,Decoración,Chaska,166.53,108.16,2018-12-07
+P0552,Shampoo Yachay Max 24,Cuidado Personal,Shampoo,Yachay,7.68,5.04,2020-10-21
+P0553,Fideos y pastas Qori Premium 48,Abarrotes,Fideos y pastas,Qori,14.12,10.26,2020-11-11
+P0554,Ambientadores Killa Familiar 92,Limpieza,Ambientadores,Killa,8.93,6.69,2019-12-24
+P0555,Desinfectantes Tika Lite 47,Limpieza,Desinfectantes,Tika,23.16,18.29,2019-12-13
+P0556,Menaje Sami Familiar 95,Hogar,Menaje,Sami,78.58,53.52,2020-01-17
+P0557,Cervezas Sami Eco 35,Bebidas,Cervezas,Sami,50.9,30.77,2019-05-03
+P0558,Harinas y azúcar Andes Max 73,Abarrotes,Harinas y azúcar,Andes,33.63,26.16,2022-12-12
+P0559,Refrigeración Sami Clásico 95,Electrohogar,Refrigeración,Sami,96.42,69.66,2022-05-22
+P0560,Jugos Yachay Eco 40,Bebidas,Jugos,Yachay,2.61,1.98,2019-04-22
+P0561,Papel higiénico Killa Familiar 30,Limpieza,Papel higiénico,Killa,12.58,9.0,2019-09-05
+P0562,Organización Pacífico Familiar 36,Hogar,Organización,Pacífico,39.6,30.13,2022-10-06
+P0563,Shampoo Nuna Familiar 17,Cuidado Personal,Shampoo,Nuna,54.58,34.35,2022-06-04
+P0564,Cuidado de piel Tika Familiar 50,Cuidado Personal,Cuidado de piel,Tika,7.51,4.68,2020-11-08
+P0565,Decoración Nuna Eco 25,Hogar,Decoración,Nuna,19.85,15.04,2020-03-28
+P0566,Shampoo Kusi Eco 77,Cuidado Personal,Shampoo,,18.17,11.55,2019-01-01
+P0567,Muebles pequeños Qori Max 7,Hogar,Muebles pequeños,Qori,13.27,8.17,2021-04-02
+P0568,Shampoo Yachay Lite 90,Cuidado Personal,Shampoo,Yachay,12.87,8.03,2019-06-27
+P0569,Cuidado dental Runa Max 22,Cuidado Personal,Cuidado dental,Runa,72.93,57.25,2020-08-07
+P0570,Gaseosas Wayra Familiar 43,Bebidas,Gaseosas,Wayra,7.18,4.64,2019-06-19
+P0571,Conservas Chaska Eco 7,Abarrotes,Conservas,Chaska,15.0,9.7,2020-10-18
+P0572,Desinfectantes Puma Norte Lite 24,Limpieza,Desinfectantes,Puma Norte,53.33,32.64,2020-11-17
+P0573,Aceites Qori Premium 45,Abarrotes,Aceites,Qori,4.48,2.76,2020-10-27
+P0574,Fideos y pastas Qori Clásico 4,Abarrotes,Fideos y pastas,Qori,3.39,2.66,2022-01-24
+P0575,Jabones Inti Clásico 10,Cuidado Personal,Jabones,Inti,77.49,61.67,2019-09-27
+P0576,Cuidado dental Puma Norte Max 34,Cuidado Personal,Cuidado dental,Puma Norte,83.67,65.63,2022-06-07
+P0577,Harinas y azúcar Andes Clásico 5,Abarrotes,Harinas y azúcar,Andes,6.8,4.88,2020-09-16
+P0578,Snacks Killa Max 63,Abarrotes,Snacks,Killa,4.31,3.25,2021-01-09
+P0579,Afeitado Sami Max 59,Cuidado Personal,Afeitado,Sami,29.4,19.53,2022-04-14
+P0580,Gaseosas Chaska Premium 73,Bebidas,Gaseosas,Chaska,11.45,7.17,2019-12-25
+P0581,Shampoo Yachay Eco 58,Cuidado Personal,Shampoo,Yachay,16.86,10.51,2022-12-26
+P0582,Fideos y pastas Wayra Lite 41,Abarrotes,Fideos y pastas,Wayra,5.44,3.34,2020-04-12
+P0583,Menaje Puma Norte Clásico 18,Hogar,Menaje,Puma Norte,21.3,13.22,2021-04-11
+P0584,Gaseosas Killa Lite 74,Bebidas,Gaseosas,Killa,57.77,37.64,2020-12-08
+P0585,Energizantes Pacífico Clásico 96,Bebidas,Energizantes,Pacífico,9.9,7.72,2019-03-17
+P0586,Lavavajillas Andes Max 34,Limpieza,Lavavajillas,Andes,22.76,16.94,2020-12-28
+P0587,Shampoo Nuna Familiar 60,Cuidado Personal,Shampoo,Nuna,28.22,22.51,2022-11-27
+P0588,Muebles pequeños Puma Norte Familiar 7,Hogar,Muebles pequeños,Puma Norte,18.44,14.7,2021-10-14
+P0589,Harinas y azúcar Sami Eco 46,Abarrotes,Harinas y azúcar,Sami,14.37,9.69,2019-02-11
+P0590,Fideos y pastas Puma Norte Clásico 93,Abarrotes,Fideos y pastas,Puma Norte,41.62,32.32,2022-03-05
+P0591,Conservas Chaska Premium 29,Abarrotes,Conservas,Chaska,2.73,1.86,2021-06-18
+P0592,Televisores Sami Max 82,Electrohogar,Televisores,Sami,383.92,283.41,2018-10-19
+P0593,Aguas Killa Eco 55,Bebidas,Aguas,Killa,47.91,35.22,2021-07-04
+P0594,Menaje Wayra Eco 28,Hogar,Menaje,Wayra,211.12,166.47,2018-09-06
+P0595,Harinas y azúcar Pacífico Eco 96,Abarrotes,Harinas y azúcar,Pacífico,9.36,6.19,2022-01-21
+P0596,Papel higiénico Sami Lite 63,Limpieza,Papel higiénico,Sami,7.88,5.26,2022-09-25
+P0597,Hervidores Nuna Clásico 25,Electrohogar,Hervidores,Nuna,324.51,249.1,2019-04-30
+P0598,Desinfectantes Nuna Clásico 74,Limpieza,Desinfectantes,Nuna,43.62,26.2,2019-09-21
+P0599,Aguas Pacífico Premium 39,Bebidas,Aguas,Pacífico,4.03,3.15,2020-12-10
+P0600,Televisores Tika Eco 59,Electrohogar,Televisores,Tika,2329.48,1578.63,2020-02-14
+P0601,Ambientadores Killa Premium 84,Limpieza,Ambientadores,Killa,7.04,5.13,2020-07-27
+P0602,Textil hogar Kusi Premium 21,Hogar,Textil hogar,Kusi,36.93,25.19,2019-05-12
+P0603,Snacks Chaska Clásico 6,Abarrotes,Snacks,Chaska,25.84,18.31,2018-10-07
+P0604,Shampoo Misti Eco 56,Cuidado Personal,Shampoo,Misti,20.42,16.13,2019-05-11
+P0605,Cuidado de piel Wayra Familiar 21,Cuidado Personal,Cuidado de piel,Wayra,89.24,62.48,2019-03-20
+P0606,Muebles pequeños Wayra Clásico 53,Hogar,Muebles pequeños,Wayra,12.37,9.31,2021-05-24
+P0607,Aceites Killa Lite 89,Abarrotes,Aceites,Killa,21.77,13.4,2020-09-18
+P0608,Licuadoras Chaska Max 13,Electrohogar,Licuadoras,Chaska,109.52,75.13,2020-12-19
+P0609,Jabones Misti Familiar 14,Cuidado Personal,Jabones,Misti,25.8,15.89,2018-08-28
+P0610,Decoración Wayra Familiar 94,Hogar,Decoración,Wayra,14.82,9.35,2019-07-07
+P0611,Afeitado Runa Clásico 68,Cuidado Personal,Afeitado,Runa,48.89,35.73,2020-02-26
+P0612,Ambientadores Wayra Lite 84,Limpieza,Ambientadores,Wayra,50.21,40.0,2020-12-14
+P0613,Hervidores Andes Max 58,Electrohogar,Hervidores,Andes,728.01,520.45,2020-08-10
+P0614,Jugos Nuna Premium 2,Bebidas,Jugos,Nuna,12.45,8.17,2021-11-13
+P0615,Fideos y pastas Inti Premium 70,Abarrotes,Fideos y pastas,Inti,3.03,2.19,2019-03-22
+P0616,Lavado Chaska Lite 5,Electrohogar,Lavado,Chaska,784.84,622.08,2019-12-23
+P0617,Licuadoras Pacífico Familiar 98,Electrohogar,Licuadoras,Pacífico,377.16,275.75,2021-09-21
+P0618,Lavado Sami Eco 1,Electrohogar,Lavado,Sami,305.65,190.14,2018-09-15
+P0619,Desinfectantes Misti Premium 46,Limpieza,Desinfectantes,Misti,8.12,4.91,2018-07-24
+P0620,Hervidores Kusi Eco 49,Electrohogar,Hervidores,Kusi,1302.21,971.89,2018-12-13
+P0621,Shampoo Puma Norte Lite 47,Cuidado Personal,Shampoo,Puma Norte,85.93,67.05,2021-02-22
+P0622,Vinos y licores Inti Max 70,Bebidas,Vinos y licores,Inti,37.64,26.97,2021-09-04
+P0623,Televisores Nuna Max 93,Electrohogar,Televisores,Nuna,95.66,72.03,2022-03-01
+P0624,Menaje Runa Familiar 61,Hogar,Menaje,Runa,497.99,317.36,2019-09-05
+P0625,Aguas Tika Familiar 56,Bebidas,Aguas,Tika,73.04,46.2,2021-11-28
+P0626,Cervezas Sami Clásico 7,Bebidas,Cervezas,Sami,23.02,15.3,2019-04-05
+P0627,Cuidado dental Inti Familiar 10,Cuidado Personal,Cuidado dental,Inti,23.31,15.74,2019-05-20
+P0628,Muebles pequeños Pacífico Lite 18,Hogar,Muebles pequeños,Pacífico,367.16,279.22,2022-03-06
+P0629,Shampoo Misti Familiar 65,Cuidado Personal,Shampoo,Misti,11.44,7.63,2020-06-01
+P0630,Menaje Chaska Lite 76,Hogar,Menaje,Chaska,74.05,54.8,2020-06-18
+P0631,Muebles pequeños Wayra Eco 48,Hogar,Muebles pequeños,Wayra,467.01,358.38,2022-04-02
+P0632,Cuidado dental Chaska Familiar 59,Cuidado Personal,Cuidado dental,Chaska,48.77,31.07,2019-04-16
+P0633,Jabones Tika Clásico 82,Cuidado Personal,Jabones,Tika,57.17,37.15,2019-07-13
+P0634,Arroz y menestras Chaska Eco 42,Abarrotes,Arroz y menestras,Chaska,16.42,10.92,2022-11-08
+P0635,Gaseosas Puma Norte Premium 74,Bebidas,Gaseosas,Puma Norte,48.68,34.99,2019-06-24
+P0636,Microondas Misti Max 94,Electrohogar,Microondas,Misti,234.81,173.78,2019-03-27
+P0637,Gaseosas Qori Familiar 7,Bebidas,Gaseosas,Qori,3.63,2.3,2022-12-17
+P0638,Fideos y pastas Qori Lite 51,Abarrotes,Fideos y pastas,Qori,40.49,28.12,2020-05-31
+P0639,Aceites Wayra Familiar 81,Abarrotes,Aceites,Wayra,14.03,11.09,2020-06-02
+P0640,Conservas Runa Eco 20,Abarrotes,Conservas,Runa,33.68,25.36,2022-05-10
+P0641,Cuidado dental Runa Lite 8,Cuidado Personal,Cuidado dental,Runa,34.34,23.21,2021-09-05
+P0642,Organización Misti Clásico 85,Hogar,Organización,Misti,576.07,390.04,2022-11-09
+P0643,Jugos Yachay Lite 92,Bebidas,Jugos,Yachay,10.01,7.48,2021-05-04
+P0644,Lavado Tika Eco 52,Electrohogar,Lavado,Tika,183.11,142.46,2020-06-30
+P0645,Snacks Andes Lite 53,Abarrotes,Snacks,Andes,20.18,13.89,2022-10-06
+P0646,Refrigeración Qori Lite 41,Electrohogar,Refrigeración,Qori,786.05,520.22,2021-03-28
+P0647,Decoración Yachay Familiar 52,Hogar,Decoración,Yachay,142.2,88.64,2018-12-08
+P0648,Lavavajillas Runa Familiar 39,Limpieza,Lavavajillas,Runa,38.03,23.87,2022-07-15
+P0649,Ambientadores Sami Max 73,Limpieza,Ambientadores,Sami,28.21,20.95,2021-10-30
+P0650,Decoración Nuna Eco 73,Hogar,Decoración,Nuna,13.66,10.45,2019-01-17
+P0651,Harinas y azúcar Yachay Clásico 15,Abarrotes,Harinas y azúcar,Yachay,5.58,3.54,2018-11-17
+P0652,Menaje Pacífico Eco 11,Hogar,Menaje,Pacífico,129.95,96.63,2021-09-21
+P0653,Menaje Sami Max 53,Hogar,Menaje,Sami,153.06,120.1,2021-04-23
+P0654,Menaje Andes Premium 38,Hogar,Menaje,Andes,18.14,11.94,2019-03-27
+P0655,Muebles pequeños Pacífico Clásico 20,Hogar,Muebles pequeños,Pacífico,26.4,19.65,2019-04-19
+P0656,Desinfectantes Wayra Familiar 76,Limpieza,Desinfectantes,Wayra,15.26,9.96,2021-05-23
+P0657,Shampoo Misti Eco 16,Cuidado Personal,Shampoo,Misti,18.68,13.71,2019-05-17
+P0658,Lavavajillas Sami Premium 17,Limpieza,Lavavajillas,Sami,17.23,11.15,2022-10-07
+P0659,Jugos Misti Eco 32,Bebidas,Jugos,Misti,38.55,27.18,2022-12-03
+P0660,Menaje Wayra Clásico 48,Hogar,Menaje,Wayra,93.92,62.81,2018-08-30
+P0661,Snacks Runa Eco 61,Abarrotes,Snacks,Runa,35.06,21.19,2022-11-13
+P0662,Jugos Inti Eco 27,Bebidas,Jugos,Inti,6.69,4.26,2021-06-04
+P0663,Textil hogar Yachay Premium 10,Hogar,Textil hogar,Yachay,186.3,112.74,2022-08-12
+P0664,Organización Chaska Premium 60,Hogar,Organización,Chaska,231.32,151.56,2022-01-21
+P0665,Jugos Nuna Eco 31,Bebidas,Jugos,Nuna,5.78,4.0,2019-10-23
+P0666,Decoración Pacífico Eco 34,Hogar,Decoración,Pacífico,35.21,25.68,2020-02-28
+P0667,Lavado Pacífico Premium 77,Electrohogar,Lavado,Pacífico,231.07,170.75,2018-07-27
+P0668,Licuadoras Pacífico Eco 37,Electrohogar,Licuadoras,Pacífico,1630.74,1287.44,2020-11-08
+P0669,Cuidado dental Yachay Premium 52,Cuidado Personal,Cuidado dental,Yachay,42.23,28.3,2022-06-29
+P0670,Vinos y licores Runa Lite 60,Bebidas,Vinos y licores,Runa,40.28,27.08,2022-04-14
+P0671,Harinas y azúcar Killa Lite 44,Abarrotes,Harinas y azúcar,Killa,13.5,8.44,2020-09-16
+P0672,Cervezas Chaska Familiar 48,Bebidas,Cervezas,Chaska,9.8,6.42,2019-02-22
+P0673,Energizantes Misti Lite 75,Bebidas,Energizantes,Misti,4.81,3.0,2022-01-27
+P0674,Snacks Yachay Familiar 9,Abarrotes,Snacks,Yachay,2.67,1.66,2021-01-10
+P0675,Harinas y azúcar Wayra Premium 24,Abarrotes,Harinas y azúcar,Wayra,50.71,32.19,2022-11-11
+P0676,Energizantes Chaska Premium 39,Bebidas,Energizantes,Chaska,91.65,62.37,2020-07-25
+P0677,Detergentes Andes Premium 74,Limpieza,Detergentes,Andes,44.79,29.24,2021-03-31
+P0678,Hervidores Tika Premium 94,Electrohogar,Hervidores,Tika,413.04,302.68,2021-03-06
+P0679,Cuidado dental Killa Eco 47,Cuidado Personal,Cuidado dental,Killa,12.63,8.1,2022-09-08
+P0680,Papel higiénico Yachay Eco 20,Limpieza,Papel higiénico,Yachay,7.75,5.5,2021-07-10
+P0681,Licuadoras Chaska Lite 74,Electrohogar,Licuadoras,Chaska,624.22,461.7,2019-12-26
+P0682,Televisores Tika Clásico 40,Electrohogar,Televisores,Tika,143.38,103.83,2019-09-01
+P0683,Detergentes Chaska Eco 85,Limpieza,Detergentes,Chaska,5.45,4.3,2021-07-29
+P0684,Cuidado dental Tika Clásico 75,Cuidado Personal,Cuidado dental,Tika,26.2,16.3,2020-08-02
+P0685,Muebles pequeños Puma Norte Max 24,Hogar,Muebles pequeños,Puma Norte,78.55,49.54,2020-01-27
+P0686,Harinas y azúcar Pacífico Lite 97,Abarrotes,Harinas y azúcar,Pacífico,9.06,6.63,2022-03-21
+P0687,Cuidado dental Pacífico Clásico 45,Cuidado Personal,Cuidado dental,Pacífico,6.98,4.79,2020-11-15
+P0688,Licuadoras Tika Lite 17,Electrohogar,Licuadoras,Tika,652.81,519.86,2020-11-23
+P0689,Desinfectantes Wayra Lite 23,Limpieza,Desinfectantes,Wayra,13.5,10.01,2018-12-19
+P0690,Licuadoras Runa Premium 9,Electrohogar,Licuadoras,Runa,212.59,132.89,2019-10-05
+P0691,Hervidores Kusi Max 20,Electrohogar,Hervidores,Kusi,166.76,105.49,2018-09-10
+P0692,Televisores Misti Familiar 64,Electrohogar,Televisores,Misti,442.13,316.39,2021-03-01
+P0693,Ambientadores Sami Familiar 22,Limpieza,Ambientadores,Sami,22.04,14.7,2018-11-03
+P0694,Licuadoras Sami Familiar 84,Electrohogar,Licuadoras,Sami,538.09,416.96,2022-08-26
+P0695,Jabones Killa Familiar 49,Cuidado Personal,Jabones,Killa,49.25,36.47,2021-01-18
+P0696,Cervezas Chaska Eco 50,Bebidas,Cervezas,Chaska,49.89,36.75,2020-04-02
+P0697,Harinas y azúcar Nuna Lite 27,Abarrotes,Harinas y azúcar,Nuna,25.11,15.38,2021-05-31
+P0698,Menaje Nuna Max 39,Hogar,Menaje,Nuna,165.16,101.44,2021-02-04
+P0699,Lavavajillas Chaska Familiar 46,Limpieza,Lavavajillas,Chaska,16.43,11.63,2020-07-27
+P0700,Cervezas Qori Premium 26,Bebidas,Cervezas,Qori,6.18,4.61,2020-08-31
+P0701,Cervezas Wayra Max 37,Bebidas,Cervezas,Wayra,2.74,1.65,2018-08-16
+P0702,Jugos Pacífico Max 92,Bebidas,Jugos,Pacífico,31.23,22.21,2022-07-17
+P0703,Shampoo Tika Max 15,Cuidado Personal,Shampoo,Tika,46.6,30.45,2019-02-16
+P0704,Detergentes Wayra Clásico 68,Limpieza,Detergentes,Wayra,21.08,13.91,2018-12-30
+P0705,Gaseosas Tika Clásico 27,Bebidas,Gaseosas,Tika,6.15,4.29,2018-12-09
+P0706,Snacks Kusi Lite 9,Abarrotes,Snacks,Kusi,22.92,17.94,2020-12-01
+P0707,Textil hogar Qori Clásico 81,Hogar,Textil hogar,Qori,447.56,321.26,2019-09-01
+P0708,Conservas Qori Clásico 21,Abarrotes,Conservas,Qori,2.57,1.82,2022-11-15
+P0709,Organización Wayra Eco 6,Hogar,Organización,Wayra,32.25,21.21,2021-11-16
+P0710,Arroz y menestras Misti Max 66,Abarrotes,Arroz y menestras,Misti,3.66,2.64,2018-11-05
+P0711,Lavavajillas Andes Premium 52,Limpieza,Lavavajillas,Andes,32.04,19.44,2021-03-20
+P0712,Hervidores Qori Familiar 55,Electrohogar,Hervidores,Qori,1075.31,738.34,2019-01-23
+P0713,Cuidado de piel Qori Premium 28,Cuidado Personal,Cuidado de piel,Qori,11.95,7.54,2022-11-02
+P0714,Shampoo Chaska Max 94,Cuidado Personal,Shampoo,Chaska,16.23,10.37,2022-07-28
+P0715,Harinas y azúcar Andes Eco 60,Abarrotes,Harinas y azúcar,Andes,2.93,1.9,2021-09-25
+P0716,Organización Tika Clásico 82,Hogar,Organización,Tika,25.14,18.46,2019-11-25
+P0717,Cuidado de piel Tika Eco 95,Cuidado Personal,Cuidado de piel,Tika,70.72,47.87,2020-08-18
+P0718,Menaje Puma Norte Clásico 52,Hogar,Menaje,Puma Norte,22.31,14.4,2019-12-20
+P0719,Decoración Pacífico Premium 38,Hogar,Decoración,Pacífico,56.16,41.37,2022-07-15
+P0720,Televisores Wayra Clásico 48,Electrohogar,Televisores,Wayra,1668.76,1250.83,2021-08-12
+P0721,Licuadoras Inti Clásico 95,Electrohogar,Licuadoras,Inti,633.94,435.37,2020-04-25
+P0722,Textil hogar Runa Premium 55,Hogar,Textil hogar,Runa,67.94,47.12,2020-10-28
+P0723,Shampoo Qori Familiar 15,Cuidado Personal,Shampoo,Qori,12.06,7.65,2022-04-27
+P0724,Shampoo Sami Premium 95,Cuidado Personal,Shampoo,Sami,5.73,3.5,2020-05-26
+P0725,Detergentes Qori Familiar 59,Limpieza,Detergentes,Qori,5.43,3.69,2020-09-17
+P0726,Lavavajillas Pacífico Premium 50,Limpieza,Lavavajillas,Pacífico,9.37,7.02,2021-03-10
+P0727,Cuidado de piel Wayra Eco 1,Cuidado Personal,Cuidado de piel,Wayra,14.16,8.84,2020-06-27
+P0728,Cuidado de piel Wayra Familiar 42,Cuidado Personal,Cuidado de piel,Wayra,18.07,12.68,2021-12-18
+P0729,Aceites Inti Max 38,Abarrotes,Aceites,Inti,6.28,4.29,2021-02-26
+P0730,Fideos y pastas Puma Norte Clásico 35,Abarrotes,Fideos y pastas,Puma Norte,4.38,2.94,2021-03-02
+P0731,Gaseosas Puma Norte Premium 77,Bebidas,Gaseosas,Puma Norte,24.09,19.16,2020-09-07
+P0732,Cervezas Andes Clásico 49,Bebidas,Cervezas,Andes,13.12,8.6,2018-08-07
+P0733,Afeitado Tika Clásico 42,Cuidado Personal,Afeitado,Tika,15.92,12.41,2022-10-02
+P0734,Textil hogar Nuna Max 20,Hogar,Textil hogar,Nuna,76.96,60.71,2020-03-31
+P0735,Cervezas Andes Clásico 95,Bebidas,Cervezas,Andes,30.35,21.91,2018-09-05
+P0736,Televisores Nuna Eco 54,Electrohogar,Televisores,Nuna,95.03,67.63,2020-08-10
+P0737,Vinos y licores Tika Premium 28,Bebidas,Vinos y licores,Tika,7.76,4.89,2019-02-26
+P0738,Lavado Tika Max 40,Electrohogar,Lavado,Tika,478.37,355.75,2019-08-09
+P0739,Fideos y pastas Misti Max 35,Abarrotes,Fideos y pastas,Misti,16.03,10.4,2020-11-09
+P0740,Afeitado Wayra Lite 59,Cuidado Personal,Afeitado,Wayra,20.63,14.08,2019-09-21
+P0741,Lavavajillas Misti Eco 56,Limpieza,Lavavajillas,Misti,22.38,15.43,2020-06-15
+P0742,Licuadoras Yachay Premium 65,Electrohogar,Licuadoras,Yachay,2174.05,1545.47,2021-10-24
+P0743,Conservas Sami Clásico 13,Abarrotes,Conservas,Sami,17.88,11.73,2018-08-23
+P0744,Ambientadores Pacífico Clásico 33,Limpieza,Ambientadores,Pacífico,5.62,4.06,2021-03-21
+P0745,Decoración Runa Clásico 53,Hogar,Decoración,Runa,39.33,25.36,2020-11-07
+P0746,Jabones Yachay Max 94,Cuidado Personal,Jabones,Yachay,13.65,8.89,2022-10-15
+P0747,Harinas y azúcar Killa Clásico 66,Abarrotes,Harinas y azúcar,Killa,5.9,4.3,2019-01-27
+P0748,Decoración Andes Clásico 51,Hogar,Decoración,Andes,117.01,77.67,2020-03-04
+P0749,Snacks Pacífico Eco 43,Abarrotes,Snacks,Pacífico,47.21,31.39,2019-07-01
+P0750,Aceites Kusi Familiar 8,Abarrotes,Aceites,Kusi,15.95,12.5,2018-11-13
+P0751,Harinas y azúcar Puma Norte Familiar 76,Abarrotes,Harinas y azúcar,Puma Norte,4.47,2.82,2019-04-15
+P0752,Licuadoras Pacífico Eco 2,Electrohogar,Licuadoras,Pacífico,1938.88,1370.43,2020-05-04
+P0753,Hervidores Yachay Familiar 93,Electrohogar,Hervidores,Yachay,1212.79,968.38,2019-01-09
+P0754,Menaje Pacífico Eco 78,Hogar,Menaje,Pacífico,151.84,99.77,2018-12-31
+P0755,Refrigeración Nuna Max 74,Electrohogar,Refrigeración,Nuna,118.85,78.78,2022-12-14
+P0756,Textil hogar Puma Norte Familiar 4,Hogar,Textil hogar,Puma Norte,353.75,265.56,2020-04-26
+P0757,Organización Andes Premium 2,Hogar,Organización,Andes,177.71,126.89,2018-07-21
+P0758,Desinfectantes Runa Lite 62,Limpieza,Desinfectantes,Runa,15.44,9.48,2019-05-29
+P0759,Shampoo Inti Familiar 52,Cuidado Personal,Shampoo,Inti,86.61,55.24,2019-09-13
+P0760,Menaje Andes Lite 5,Hogar,Menaje,Andes,93.91,58.57,2022-02-08
+P0761,Lavavajillas Pacífico Familiar 27,Limpieza,Lavavajillas,Pacífico,11.48,8.8,2020-11-14
+P0762,Aguas Yachay Lite 42,Bebidas,Aguas,Yachay,5.23,3.69,2022-08-09
+P0763,Muebles pequeños Pacífico Premium 54,Hogar,Muebles pequeños,Pacífico,25.07,16.78,2018-11-27
+P0764,Harinas y azúcar Nuna Premium 94,Abarrotes,Harinas y azúcar,Nuna,5.01,3.82,2019-04-11
+P0765,Afeitado Qori Lite 18,Cuidado Personal,Afeitado,Qori,71.75,57.32,2022-08-08
+P0766,Organización Nuna Premium 1,Hogar,Organización,Nuna,12.17,7.63,2019-07-03
+P0767,Licuadoras Runa Lite 65,Electrohogar,Licuadoras,Runa,706.17,498.38,2022-04-17
+P0768,Jabones Tika Lite 83,Cuidado Personal,Jabones,Tika,6.02,4.16,2022-02-12
+P0769,Desinfectantes Inti Lite 57,Limpieza,Desinfectantes,Inti,36.13,26.34,2021-01-15
+P0770,Aguas Qori Lite 34,Bebidas,Aguas,Qori,4.35,2.97,2022-07-19
+P0771,Cuidado dental Inti Eco 35,Cuidado Personal,Cuidado dental,Inti,7.83,4.96,2020-12-25
+P0772,Hervidores Runa Premium 81,Electrohogar,Hervidores,Runa,109.76,84.38,2018-09-08
+P0773,Cuidado de piel Tika Clásico 95,Cuidado Personal,Cuidado de piel,Tika,7.45,4.72,2022-10-26
+P0774,Microondas Nuna Max 10,Electrohogar,Microondas,Nuna,276.44,196.28,2022-11-26
+P0775,Decoración Qori Eco 78,Hogar,Decoración,Qori,69.52,53.94,2021-08-18
+P0776,Shampoo Puma Norte Lite 63,Cuidado Personal,Shampoo,Puma Norte,13.9,9.57,2022-04-15
+P0777,Shampoo Runa Max 8,Cuidado Personal,Shampoo,Runa,9.43,6.98,2020-10-30
+P0778,Lavado Sami Max 52,Electrohogar,Lavado,Sami,782.69,474.51,2022-09-14
+P0779,Papel higiénico Qori Familiar 13,Limpieza,Papel higiénico,Qori,45.8,35.66,2022-10-21
+P0780,Gaseosas Kusi Clásico 71,Bebidas,Gaseosas,Kusi,2.77,1.85,2022-07-24
+P0781,Refrigeración Puma Norte Max 89,Electrohogar,Refrigeración,Puma Norte,231.22,158.28,2022-11-07
+P0782,Licuadoras Yachay Clásico 11,Electrohogar,Licuadoras,Yachay,197.36,136.08,2021-06-08
+P0783,Textil hogar Misti Lite 28,Hogar,Textil hogar,Misti,381.05,292.41,2022-11-13
+P0784,Snacks Inti Familiar 64,Abarrotes,Snacks,Inti,2.68,1.87,2018-09-26
+P0785,Lavavajillas Pacífico Max 71,Limpieza,Lavavajillas,Pacífico,53.64,34.82,2018-12-07
+P0786,Aceites Puma Norte Lite 4,Abarrotes,Aceites,Puma Norte,6.91,4.76,2021-06-10
+P0787,Papel higiénico Tika Premium 48,Limpieza,Papel higiénico,Tika,57.87,46.14,2019-10-10
+P0788,Papel higiénico Runa Premium 9,Limpieza,Papel higiénico,Runa,22.83,15.52,2018-07-23
+P0789,Conservas Pacífico Lite 7,Abarrotes,Conservas,Pacífico,21.94,17.11,2021-04-15
+P0790,Menaje Sami Max 74,Hogar,Menaje,Sami,73.51,44.65,2018-09-21
+P0791,Hervidores Wayra Lite 39,Electrohogar,Hervidores,Wayra,2166.2,1704.7,2022-08-30
+P0792,Vinos y licores Pacífico Lite 63,Bebidas,Vinos y licores,Pacífico,61.1,40.69,2018-11-05
+P0793,Licuadoras Inti Clásico 63,Electrohogar,Licuadoras,Inti,298.9,237.11,2021-08-29
+P0794,Aguas Runa Familiar 33,Bebidas,Aguas,Runa,11.55,7.68,2020-12-20
+P0795,Cervezas Qori Eco 17,Bebidas,Cervezas,Qori,4.6,3.16,2020-12-21
+P0796,Licuadoras Qori Premium 74,Electrohogar,Licuadoras,Qori,1138.98,694.13,2020-11-01
+P0797,Jabones Misti Max 47,Cuidado Personal,Jabones,Misti,12.88,9.81,2020-12-10
+P0798,Refrigeración Nuna Lite 82,Electrohogar,Refrigeración,Nuna,276.75,210.34,2020-09-27
+P0799,Vinos y licores Pacífico Max 17,Bebidas,Vinos y licores,Pacífico,32.4,21.7,2018-10-06
+P0800,Aceites Misti Familiar 53,Abarrotes,Aceites,Misti,4.26,2.58,2020-02-06
